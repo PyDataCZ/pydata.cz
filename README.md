@@ -22,7 +22,7 @@ You can find more information at [pydata.org/code-of-conduct/](https://pydata.or
 
 We have hosted several meetups, you can check them out on our [Meetup page](https://www.meetup.com/PyData-Prague). We try and host speakers from various backgrounds, so that our attendees get to find out about all sorts of things possible with the NumFOCUS toolkit (and beyond!).
 
-### [PyData Prague #5 - Dashing Automobile](https://www.meetup.com/PyData-Prague/events/266462703/)
+### [PyData Prague #5 - Dashing Automobile](https://www.meetup.com/PyData-Prague/events/266462703/) (27. 11. 2019)
 
 #### Talk 1: Andrej Svitek - Data Science in Automotive industry
 
@@ -36,7 +36,7 @@ Your data science project may need to produce interactive tools and visualizatio
 
 This talk will give an overview of Dash, how it works and what it can be used for, before outlining some of the common problems that emerge when data scientists are let loose to produce web applications, and web developers have to work with the pydata ecosystem.
 
-### [PyData Prague #4 - Mapping Science](https://www.meetup.com/PyData-Prague/events/264776737/)
+### [PyData Prague #4 - Mapping Science](https://www.meetup.com/PyData-Prague/events/264776737/) (30. 9. 2019)
 
 #### Talk 1: Diar Masri: Data Science at LMC
 
@@ -47,7 +47,7 @@ Searching for job is a struggle that LMC is trying to simplify. Therefore, I wou
 Knowledge of the neighborhoods may identify deficient services to a marketing company, it also enables you to address your spouse's inquiry about points of interest on a day-trip. To acquire such knowledge, you need a rich source of data with decent API. OpenStreetMaps offer both. This talk explains how to access the data points in OSM and how to query their labels and content using two Python libraries (overpass and overpy) as well as the underlying OSM query language.
 
 
-### [PyData Prague #3 - Mouse Experience](https://www.meetup.com/PyData-Prague/events/262289857/)
+### [PyData Prague #3 - Mouse Experience](https://www.meetup.com/PyData-Prague/events/262289857/) (24. 6. 2019)
 
 #### Talk 1: Karla Fejfarová: My Data Look Like a Mouse ([video](https://www.youtube.com/watch?v=bl0z5jHmFuc))
 
@@ -58,7 +58,7 @@ This talk will give you a short tour of the Czech Centre for Phenogenomics in th
 They work in all kinds of companies from startups to corporates. They could be sitting right next to you; the UX designers. But what is their actual job and how could you help each other? Let's find out with Tomáš Muchka, a senior UX designer at GoodData.
 
 
-### [PyData Prague #2 - Optimized Elasticity](https://www.meetup.com/PyData-Prague/events/257775220/)
+### [PyData Prague #2 - Optimized Elasticity](https://www.meetup.com/PyData-Prague/events/257775220/) (23. 1. 2019)
 
 #### Talk 1: The how and why of Elasticsearch ([video](https://www.youtube.com/watch?v=55YJxJbeznQ))
 
@@ -68,7 +68,7 @@ Elasticsearch is an open source distributed datastore, we will see what makes it
 
 Jakub Urban, a senior Pythonista from Quantlane with rich experience in scientific computing and modelling, will show various possibilities for making your (mostly) numerical calculations in Python fast. He will cover optimization and parallelization using Numpy, Numba, Cython or Dask. You will learn that Python can be as fast as Fortran with a very little effort. In case it cannot, you will see how to seamlessly turn Fortran/C/C++ into a Python module.
 
-### [PyData Prague - 1st Meetup - Open Source and Open Communities](https://www.meetup.com/PyData-Prague/events/254559250/)
+### [PyData Prague - 1st Meetup - Open Source and Open Communities](https://www.meetup.com/PyData-Prague/events/254559250/) (18. 10. 2018)
 
 #### Talk 1: NumFOCUS and PyData + Delivering Data Science Projects ([video](https://www.youtube.com/watch?v=6wckJlowTAg))
 
