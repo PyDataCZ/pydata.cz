@@ -70,7 +70,7 @@ Jakub Urban, a senior Pythonista from Quantlane with rich experience in scientif
 
 ### [PyData Prague - 1st Meetup - Open Source and Open Communities](https://www.meetup.com/PyData-Prague/events/254559250/) (18. 10. 2018)
 
-#### Talk 1: Ian Oszvald: NumFOCUS and PyData + Delivering Data Science Projects ([video](https://www.youtube.com/watch?v=6wckJlowTAg))
+#### Talk 1: Ian Ozsvald: NumFOCUS and PyData + Delivering Data Science Projects ([video](https://www.youtube.com/watch?v=6wckJlowTAg))
 
 Ian Ozsvald, a London-based data scientist with 15+ years of experience, he co-founded PyData London, one of the largest PyData communities in the world. Ian will introduce PyData, NumFOCUS and the community behind these initiatives. He'll then talk about successfully delivering a data science project.
 
