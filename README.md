@@ -60,20 +60,20 @@ They work in all kinds of companies from startups to corporates. They could be s
 
 ### [PyData Prague #2 - Optimized Elasticity](https://www.meetup.com/PyData-Prague/events/257775220/) (23. 1. 2019)
 
-#### Talk 1: The how and why of Elasticsearch ([video](https://www.youtube.com/watch?v=55YJxJbeznQ))
+#### Talk 1: Honza Král: The how and why of Elasticsearch ([video](https://www.youtube.com/watch?v=55YJxJbeznQ))
 
 Elasticsearch is an open source distributed datastore, we will see what makes it tick, how to use it from Python and try to draw some conclusions as to where it might fit in in your organization. Honza Král is a principal consulting architect from Elastic and a long-term core committer to Django.
 
-#### Talk 2: Optimizing numerical calculations in Python ([video](https://www.youtube.com/watch?v=I_BRzn4zMnQ))
+#### Talk 2: Jakub Urban: Optimizing numerical calculations in Python ([video](https://www.youtube.com/watch?v=I_BRzn4zMnQ))
 
 Jakub Urban, a senior Pythonista from Quantlane with rich experience in scientific computing and modelling, will show various possibilities for making your (mostly) numerical calculations in Python fast. He will cover optimization and parallelization using Numpy, Numba, Cython or Dask. You will learn that Python can be as fast as Fortran with a very little effort. In case it cannot, you will see how to seamlessly turn Fortran/C/C++ into a Python module.
 
 ### [PyData Prague - 1st Meetup - Open Source and Open Communities](https://www.meetup.com/PyData-Prague/events/254559250/) (18. 10. 2018)
 
-#### Talk 1: NumFOCUS and PyData + Delivering Data Science Projects ([video](https://www.youtube.com/watch?v=6wckJlowTAg))
+#### Talk 1: Ian Ozsvald: NumFOCUS and PyData + Delivering Data Science Projects ([video](https://www.youtube.com/watch?v=6wckJlowTAg))
 
 Ian Ozsvald, a London-based data scientist with 15+ years of experience, he co-founded PyData London, one of the largest PyData communities in the world. Ian will introduce PyData, NumFOCUS and the community behind these initiatives. He'll then talk about successfully delivering a data science project.
 
-#### Talk 2: Symbolic Computing with SymPy ([video](https://www.youtube.com/watch?v=tsOzJ-Co938))
+#### Talk 2: Štěpán Roučka: Symbolic Computing with SymPy ([video](https://www.youtube.com/watch?v=tsOzJ-Co938))
 
 Štěpán Roučka, a contributor to the SymPy project, a computer algebra system widely used within academia and industry, both as a standalone tool and as part of other scientific packages. Štepán will give a brief overview of SymPy's functionality and will show you a few examples, which may motivate you to add SymPy to your data science toolbox.
