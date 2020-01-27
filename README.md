@@ -27,6 +27,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 #### Talk 1: Adam Hanka - Automation in InsurTech and Banking
 
 Automation and artificial intelligence can bring improvements in customer experience, shorten application time and simplify the underwriting process, reduce costs and replace some tedious and repetitive human labor such as damage inspection or claim processing. How does it work in the world of finance, especially insurance and banking, both examples of the most traditional industries, posing strong resistance towards changes?
+
 Possible future development in the industry will be demonstrated on two recent data science and machine learning projects:
 * Recognition and evaluation of car damages.
 * Scoring process based on structured information from social media.
