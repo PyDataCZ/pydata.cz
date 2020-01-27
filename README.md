@@ -18,9 +18,24 @@ We adhere to PyData's code of conduct, here's its short version:
 
 You can find more information at [pydata.org/code-of-conduct/](https://pydata.org/code-of-conduct/)
 
-## Meetups
-
 We have hosted several meetups, you can check them out on our [Meetup page](https://www.meetup.com/PyData-Prague). We try and host speakers from various backgrounds, so that our attendees get to find out about all sorts of things possible with the NumFOCUS toolkit (and beyond!).
+
+## Upcoming Meetups
+
+### [PyData Prague #6 - Extended Automation](https://www.meetup.com/PyData-Prague/events/267957841/) (3. 2. 2020)
+
+#### Talk 1: Adam Hanka - Automation in InsurTech and Banking
+
+Automation and artificial intelligence can bring improvements in customer experience, shorten application time and simplify the underwriting process, reduce costs and replace some tedious and repetitive human labor such as damage inspection or claim processing. How does it work in the world of finance, especially insurance and banking, both examples of the most traditional industries, posing strong resistance towards changes?
+Possible future development in the industry will be demonstrated on two recent data science and machine learning projects:
+* Recognition and evaluation of car damages.
+* Scoring process based on structured information from social media.
+
+#### Talk 2: Jan Pipek - A practical guide to designing implants for pandas
+
+The pandas library offers three approaches to user customization – class inheritance, series/data frame accessors, and extension arrays/dtypes. The talk introduces all of them shortly with real-world examples and code, while focusing on a complete implementation of physical-unit-aware data column example.
+
+## Past Meetups
 
 ### [PyData Prague #5 - Dashing Automobile](https://www.meetup.com/PyData-Prague/events/266462703/) (27. 11. 2019)
 
@@ -38,42 +53,42 @@ This talk will give an overview of Dash, how it works and what it can be used fo
 
 ### [PyData Prague #4 - Mapping Science](https://www.meetup.com/PyData-Prague/events/264776737/) (30. 9. 2019)
 
-#### Talk 1: Diar Masri: Data Science at LMC
+#### Talk 1: Diar Masri - Data Science at LMC
 
 Searching for job is a struggle that LMC is trying to simplify. Therefore, I would like to introduce a practical overview of how data science is applied at LMC to achieve such a goal. We do so by applying data science to better understand our users experience and abilities using techniques of Natural Language Processing (NLP). Moreover, we examine current preferences of our users using Recommender System in order to recommend them the most relevant job options and shorten the path to their next career.
 
-#### Talk 2: Vojtěch Filipec: Curious about a new place? Explore many of them via OpenStreetMaps API
+#### Talk 2: Vojtěch Filipec - Curious about a new place? Explore many of them via OpenStreetMaps API
 
 Knowledge of the neighborhoods may identify deficient services to a marketing company, it also enables you to address your spouse's inquiry about points of interest on a day-trip. To acquire such knowledge, you need a rich source of data with decent API. OpenStreetMaps offer both. This talk explains how to access the data points in OSM and how to query their labels and content using two Python libraries (overpass and overpy) as well as the underlying OSM query language.
 
 
 ### [PyData Prague #3 - Mouse Experience](https://www.meetup.com/PyData-Prague/events/262289857/) (24. 6. 2019)
 
-#### Talk 1: Karla Fejfarová: My Data Look Like a Mouse ([video](https://www.youtube.com/watch?v=bl0z5jHmFuc))
+#### Talk 1: Karla Fejfarová - My Data Look Like a Mouse ([video](https://www.youtube.com/watch?v=bl0z5jHmFuc))
 
 This talk will give you a short tour of the Czech Centre for Phenogenomics in the BIOCEV centre in Vestec and a brief overview of current research in mouse-based functional genomics. Karla will also present various types of data we generate during the research and will show you how Python helps us to overcome some of the everyday challenges we face. Karla Fejfar­ová is a biostatistician at the Czech Centre of Phenogenomics.
 
-#### Talk 2: Tomáš Muchka: What the Heck Does UX Mean? ([video](https://www.youtube.com/watch?v=K4mocwsew8k))
+#### Talk 2: Tomáš Muchka - What the Heck Does UX Mean? ([video](https://www.youtube.com/watch?v=K4mocwsew8k))
 
 They work in all kinds of companies from startups to corporates. They could be sitting right next to you; the UX designers. But what is their actual job and how could you help each other? Let's find out with Tomáš Muchka, a senior UX designer at GoodData.
 
 
 ### [PyData Prague #2 - Optimized Elasticity](https://www.meetup.com/PyData-Prague/events/257775220/) (23. 1. 2019)
 
-#### Talk 1: Honza Král: The how and why of Elasticsearch ([video](https://www.youtube.com/watch?v=55YJxJbeznQ))
+#### Talk 1: Honza Král - The how and why of Elasticsearch ([video](https://www.youtube.com/watch?v=55YJxJbeznQ))
 
 Elasticsearch is an open source distributed datastore, we will see what makes it tick, how to use it from Python and try to draw some conclusions as to where it might fit in in your organization. Honza Král is a principal consulting architect from Elastic and a long-term core committer to Django.
 
-#### Talk 2: Jakub Urban: Optimizing numerical calculations in Python ([video](https://www.youtube.com/watch?v=I_BRzn4zMnQ))
+#### Talk 2: Jakub Urban - Optimizing numerical calculations in Python ([video](https://www.youtube.com/watch?v=I_BRzn4zMnQ))
 
 Jakub Urban, a senior Pythonista from Quantlane with rich experience in scientific computing and modelling, will show various possibilities for making your (mostly) numerical calculations in Python fast. He will cover optimization and parallelization using Numpy, Numba, Cython or Dask. You will learn that Python can be as fast as Fortran with a very little effort. In case it cannot, you will see how to seamlessly turn Fortran/C/C++ into a Python module.
 
-### [PyData Prague - 1st Meetup - Open Source and Open Communities](https://www.meetup.com/PyData-Prague/events/254559250/) (18. 10. 2018)
+### [PyData Prague #1 - Open Source and Open Communities](https://www.meetup.com/PyData-Prague/events/254559250/) (18. 10. 2018)
 
-#### Talk 1: Ian Ozsvald: NumFOCUS and PyData + Delivering Data Science Projects ([video](https://www.youtube.com/watch?v=6wckJlowTAg))
+#### Talk 1: Ian Ozsvald - NumFOCUS and PyData + Delivering Data Science Projects ([video](https://www.youtube.com/watch?v=6wckJlowTAg))
 
 Ian Ozsvald, a London-based data scientist with 15+ years of experience, he co-founded PyData London, one of the largest PyData communities in the world. Ian will introduce PyData, NumFOCUS and the community behind these initiatives. He'll then talk about successfully delivering a data science project.
 
-#### Talk 2: Štěpán Roučka: Symbolic Computing with SymPy ([video](https://www.youtube.com/watch?v=tsOzJ-Co938))
+#### Talk 2: Štěpán Roučka - Symbolic Computing with SymPy ([video](https://www.youtube.com/watch?v=tsOzJ-Co938))
 
 Štěpán Roučka, a contributor to the SymPy project, a computer algebra system widely used within academia and industry, both as a standalone tool and as part of other scientific packages. Štepán will give a brief overview of SymPy's functionality and will show you a few examples, which may motivate you to add SymPy to your data science toolbox.
