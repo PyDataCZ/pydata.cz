@@ -54,7 +54,7 @@ This talk will give an overview of Dash, how it works and what it can be used fo
 
 ### [PyData Prague #4 - Mapping Science](https://www.meetup.com/PyData-Prague/events/264776737/) (30. 9. 2019)
 
-#### Talk 1: Diar Masri - Data Science at LMC
+#### Talk 1: Diar Masri - Data Science at LMC ([video](https://youtu.be/ztfHcGDf5rs))
 
 Searching for job is a struggle that LMC is trying to simplify. Therefore, I would like to introduce a practical overview of how data science is applied at LMC to achieve such a goal. We do so by applying data science to better understand our users experience and abilities using techniques of Natural Language Processing (NLP). Moreover, we examine current preferences of our users using Recommender System in order to recommend them the most relevant job options and shorten the path to their next career.
 
