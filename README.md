@@ -22,6 +22,10 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+Coming soon...
+
+## Past Meetups
+
 ### [PyData Prague #6 - Extended Automation](https://www.meetup.com/PyData-Prague/events/267957841/) (3. 2. 2020)
 
 #### Talk 1: Adam Hanka - Automation in InsurTech and Banking
@@ -32,11 +36,9 @@ Possible future development in the industry will be demonstrated on two recent d
 * Recognition and evaluation of car damages.
 * Scoring process based on structured information from social media.
 
-#### Talk 2: Jan Pipek - A practical guide to designing implants for pandas
+#### Talk 2: Jan Pipek - A practical guide to designing implants for pandas ([slides](https://janpipek.github.io/talks/pydata-prague_2020/#/))
 
 The pandas library offers three approaches to user customization – class inheritance, series/data frame accessors, and extension arrays/dtypes. The talk introduces all of them shortly with real-world examples and code, while focusing on a complete implementation of physical-unit-aware data column example.
-
-## Past Meetups
 
 ### [PyData Prague #5 - Dashing Automobile](https://www.meetup.com/PyData-Prague/events/266462703/) (27. 11. 2019)
 
