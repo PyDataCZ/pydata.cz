@@ -67,7 +67,7 @@ Knowledge of the neighborhoods may identify deficient services to a marketing co
 
 ### [PyData Prague #3 - Mouse Experience](https://www.meetup.com/PyData-Prague/events/262289857/) (24. 6. 2019)
 
-#### Talk 1: Karla Fejfarová - My Data Look Like a Mouse ([video](https://www.youtube.com/watch?v=bl0z5jHmFuc))
+#### Talk 1: Karla Fejfarová - My Data Look Like a Mouse ([video](https://www.youtube.com/watch?v=bl0z5jHmFuc), [slides](http://crysa.fzu.cz/karla/slides/2019_pydata.html))
 
 This talk will give you a short tour of the Czech Centre for Phenogenomics in the BIOCEV centre in Vestec and a brief overview of current research in mouse-based functional genomics. Karla will also present various types of data we generate during the research and will show you how Python helps us to overcome some of the everyday challenges we face. Karla Fejfar­ová is a biostatistician at the Czech Centre of Phenogenomics.
 
