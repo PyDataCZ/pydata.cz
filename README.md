@@ -48,7 +48,7 @@ The Automotive industry is one of the most important drivers (pun intended) of t
 
 With constant flood of buzzwords (IIoT, Industry 4.0, Digital factory 2.0, Autonomous Driving just to name a few), the aim of this talk is to present a more realistic and data-driven perspective of the industry as well as look at the advantages and challenges of Data Science projects within this environment.
 
-#### Talk 2: Dom Weldon - Dash: Interactive Data Visualization Web Apps with no Javascript
+#### Talk 2: Dom Weldon - Dash: Interactive Data Visualization Web Apps with no Javascript ([video](https://www.youtube.com/watch?v=dewrzMPPLDU), [slides](https://docs.google.com/presentation/d/1hHTRy6_5D59jmJ_dQQJcFdSxp8_sF8owOTz8n4ltYno/edit#slide=id.g6bad58c9c8_0_95))
 
 Your data science project may need to produce interactive tools and visualizations to allow end-users to explore data and results. Dash, a project by the team that makes Plotly, solves some of these problems by allowing data scientists to build rich and interactive websites in pure Python, with minimal knowledge of HTML and absolutely no Javascript.
 
@@ -60,7 +60,7 @@ This talk will give an overview of Dash, how it works and what it can be used fo
 
 Searching for job is a struggle that LMC is trying to simplify. Therefore, I would like to introduce a practical overview of how data science is applied at LMC to achieve such a goal. We do so by applying data science to better understand our users experience and abilities using techniques of Natural Language Processing (NLP). Moreover, we examine current preferences of our users using Recommender System in order to recommend them the most relevant job options and shorten the path to their next career.
 
-#### Talk 2: Vojtěch Filipec - Curious about a new place? Explore many of them via OpenStreetMaps API
+#### Talk 2: Vojtěch Filipec - Curious about a new place? Explore many of them via OpenStreetMaps API ([video](https://www.youtube.com/watch?v=7RxQIMIUJWg), [slides and code](https://github.com/vojtech-filipec/PyConCZ-OSM-API))
 
 Knowledge of the neighborhoods may identify deficient services to a marketing company, it also enables you to address your spouse's inquiry about points of interest on a day-trip. To acquire such knowledge, you need a rich source of data with decent API. OpenStreetMaps offer both. This talk explains how to access the data points in OSM and how to query their labels and content using two Python libraries (overpass and overpy) as well as the underlying OSM query language.
 
