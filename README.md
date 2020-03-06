@@ -42,7 +42,7 @@ The pandas library offers three approaches to user customization – class inher
 
 ### [PyData Prague #5 - Dashing Automobile](https://www.meetup.com/PyData-Prague/events/266462703/) (27. 11. 2019)
 
-#### Talk 1: Andrej Svitek - Data Science in Automotive industry
+#### Talk 1: Andrej Svitek - Data Science in Automotive industry ([video](https://www.youtube.com/watch?v=pGAZpvad0PU))
 
 The Automotive industry is one of the most important drivers (pun intended) of the Czech economy. With more than 1,4 million cars produced per year, 800 companies involved and 160 000 direct employees, Automotive is considered the largest industry in the Czech Republic accounting for more than 9 % of GDP.
 
@@ -56,7 +56,7 @@ This talk will give an overview of Dash, how it works and what it can be used fo
 
 ### [PyData Prague #4 - Mapping Science](https://www.meetup.com/PyData-Prague/events/264776737/) (30. 9. 2019)
 
-#### Talk 1: Diar Masri - Data Science at LMC ([video](https://youtu.be/ztfHcGDf5rs))
+#### Talk 1: Diar Masri - Data Science at LMC ([video](https://youtu.be/ztfHcGDf5rs), [slides](talks/diar_masri-2019_30_09.pdf))
 
 Searching for job is a struggle that LMC is trying to simplify. Therefore, I would like to introduce a practical overview of how data science is applied at LMC to achieve such a goal. We do so by applying data science to better understand our users experience and abilities using techniques of Natural Language Processing (NLP). Moreover, we examine current preferences of our users using Recommender System in order to recommend them the most relevant job options and shorten the path to their next career.
 
