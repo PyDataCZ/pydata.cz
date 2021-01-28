@@ -22,17 +22,19 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+No meetups currently scheduled.
+
+## Past Meetups
+
 ### [PyData Prague #8 - Collaborative Dimensions](https://www.meetup.com/PyData-Prague/events/273506477/) (5. 10. 2020, virtual)
 
-#### Talk 1: Jan Matas - Making data science notebook collaborative
+#### Talk 1: Jan Matas - Making data science notebook collaborative ([video](https://www.youtube.com/watch?v=GQr1uMK74F4))
 
 Jupyter notebook is now one of the most popular tools for data scientists, even though it is fairly difficult to work with it in a team setting. In this talk, we will first explore how notebooks work under the hood, then we will discuss how we can build collaboration features to enable real-time editing (like google docs) and finally we will address some security challenges inherent to having collaborative data science tools in the cloud.
 
-#### Talk 2: Ondřej Grover - Xarray, more than Pandas in multiple dimensions
+#### Talk 2: Ondřej Grover - Xarray, more than Pandas in multiple dimensions ([video](https://www.youtube.com/watch?v=ww4EYv20Ucw), [slides](https://github.com/smartass101/xarray-pydata-prague-2020))
 
 The Xarray library has in recent years become one of the de-facto standards for working with multi-dimensional datasets in Python. While calling it "a generalization of Pandas into multiple dimensions" gives a reasonable first impression, there is much more to it than that. For instance, the transparent and well structured API offers a concise handle on the depths of NumPy and Dask broadcasting magic. The API and helper functions also enable the construction of convenient and versatile wrappers of e.g. Scipy routines which then become applicable in any domain where data can be represented by Xarray containers. The talk will showcase the basic Pandas-like usage as well as some of the aforementioned advanced features.
-
-## Past Meetups
 
 ### [PyData Prague #7 - Call for Community](https://www.meetup.com/PyData-Prague/events/272546041/) (25. 8. 2020)
 
