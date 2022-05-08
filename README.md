@@ -22,9 +22,21 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-No meetups currently scheduled.
+### [PyData Prague #10 - Pandemic Lite](https://www.meetup.com/PyData-Prague/events/285562340/) (10. 5. 2022)
+
+#### Talk 1: Jeremy Tuloup - JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python
+
+JupyterLite is a JupyterLab distribution that runs entirely in the web browser, backed by in-browser language kernels. This presentation will be a functional talk to present JupyterLite with concrete examples and live demos.
+
+#### Talk 2: Roman Neruda, Petra Vidnerová - Tested on agents - how we designed an agent-based epidemiological model
+
+Epidemiological modeling helps us to understand the dynamics of disease spread and the effects of various protective measures. Agent-based models provide simulation tools for detailed modeling of individual human behavior. We will present a general network agent model that has been used to study epidemic scenarios in various environments, including a typical Czech county, or a school.
 
 ## Past Meetups
+
+### [PyData Prague #9 - Reinforcement Yearning](https://www.meetup.com/PyData-Prague/events/279339785/) (13. 7. 2021)
+
+No talks.
 
 ### [PyData Prague #8 - Collaborative Dimensions](https://www.meetup.com/PyData-Prague/events/273506477/) (5. 10. 2020, virtual)
 
@@ -42,7 +54,7 @@ No talks.
 
 ### [PyData Prague #6 - Extended Automation](https://www.meetup.com/PyData-Prague/events/267957841/) (3. 2. 2020)
 
-#### Talk 1: Adam Hanka - Automation in InsurTech and Banking
+#### Talk 1: Adam Hanka - Automation in InsurTech and Banking ([video](https://www.youtube.com/watch?v=pWQM-BCd_T8))
 
 Automation and artificial intelligence can bring improvements in customer experience, shorten application time and simplify the underwriting process, reduce costs and replace some tedious and repetitive human labor such as damage inspection or claim processing. How does it work in the world of finance, especially insurance and banking, both examples of the most traditional industries, posing strong resistance towards changes?
 
