@@ -26,7 +26,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Past Meetups
 
-### [PyData Prague #10 - Pandemic Lite](https://www.meetup.com/PyData-Prague/events/285562340/) (10. 5. 2022)
+### [PyData Prague #10 - Pandemic Lite](https://www.meetup.com/PyData-Prague/events/285562340/) (10. 5. 2022 at Creative Dock)
 
 #### Jeremy Tuloup - JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python ([slides](https://github.com/jtpio/pydata-prague-meetup-2022))
 
@@ -36,7 +36,7 @@ JupyterLite is a JupyterLab distribution that runs entirely in the web browser, 
 
 Epidemiological modeling helps us to understand the dynamics of disease spread and the effects of various protective measures. Agent-based models provide simulation tools for detailed modeling of individual human behavior. We will present a general network agent model that has been used to study epidemic scenarios in various environments, including a typical Czech county, or a school.
 
-### [PyData Prague #9 - Reinforcement Yearning](https://www.meetup.com/PyData-Prague/events/279339785/) (13. 7. 2021)
+### [PyData Prague #9 - Reinforcement Yearning](https://www.meetup.com/PyData-Prague/events/279339785/) (13. 7. 2021 at Holešovická Šachta)
 
 No talks.
 
@@ -50,11 +50,11 @@ Jupyter notebook is now one of the most popular tools for data scientists, even 
 
 The Xarray library has in recent years become one of the de-facto standards for working with multi-dimensional datasets in Python. While calling it "a generalization of Pandas into multiple dimensions" gives a reasonable first impression, there is much more to it than that. For instance, the transparent and well structured API offers a concise handle on the depths of NumPy and Dask broadcasting magic. The API and helper functions also enable the construction of convenient and versatile wrappers of e.g. Scipy routines which then become applicable in any domain where data can be represented by Xarray containers. The talk will showcase the basic Pandas-like usage as well as some of the aforementioned advanced features.
 
-### [PyData Prague #7 - Call for Community](https://www.meetup.com/PyData-Prague/events/272546041/) (25. 8. 2020)
+### [PyData Prague #7 - Call for Community](https://www.meetup.com/PyData-Prague/events/272546041/) (25. 8. 2020 at Klub Avu)
 
 No talks.
 
-### [PyData Prague #6 - Extended Automation](https://www.meetup.com/PyData-Prague/events/267957841/) (3. 2. 2020)
+### [PyData Prague #6 - Extended Automation](https://www.meetup.com/PyData-Prague/events/267957841/) (3. 2. 2020 at CreativeDock)
 
 #### Adam Hanka - Automation in InsurTech and Banking ([video](https://www.youtube.com/watch?v=pWQM-BCd_T8))
 
@@ -68,7 +68,7 @@ Possible future development in the industry will be demonstrated on two recent d
 
 The pandas library offers three approaches to user customization – class inheritance, series/data frame accessors, and extension arrays/dtypes. The talk introduces all of them shortly with real-world examples and code, while focusing on a complete implementation of physical-unit-aware data column example.
 
-### [PyData Prague #5 - Dashing Automobile](https://www.meetup.com/PyData-Prague/events/266462703/) (27. 11. 2019)
+### [PyData Prague #5 - Dashing Automobile](https://www.meetup.com/PyData-Prague/events/266462703/) (27. 11. 2019 at Microsoft)
 
 #### Andrej Svitek - Data Science in Automotive industry ([video](https://www.youtube.com/watch?v=pGAZpvad0PU))
 
@@ -82,7 +82,7 @@ Your data science project may need to produce interactive tools and visualizatio
 
 This talk will give an overview of Dash, how it works and what it can be used for, before outlining some of the common problems that emerge when data scientists are let loose to produce web applications, and web developers have to work with the pydata ecosystem.
 
-### [PyData Prague #4 - Mapping Science](https://www.meetup.com/PyData-Prague/events/264776737/) (30. 9. 2019)
+### [PyData Prague #4 - Mapping Science](https://www.meetup.com/PyData-Prague/events/264776737/) (30. 9. 2019 at (A)void Floating Gallery)
 
 #### Diar Masri - Data Science at LMC ([video](https://youtu.be/ztfHcGDf5rs), [slides](talks/diar_masri-2019_30_09.pdf))
 
@@ -93,7 +93,7 @@ Searching for job is a struggle that LMC is trying to simplify. Therefore, I wou
 Knowledge of the neighborhoods may identify deficient services to a marketing company, it also enables you to address your spouse's inquiry about points of interest on a day-trip. To acquire such knowledge, you need a rich source of data with decent API. OpenStreetMaps offer both. This talk explains how to access the data points in OSM and how to query their labels and content using two Python libraries (overpass and overpy) as well as the underlying OSM query language.
 
 
-### [PyData Prague #3 - Mouse Experience](https://www.meetup.com/PyData-Prague/events/262289857/) (24. 6. 2019)
+### [PyData Prague #3 - Mouse Experience](https://www.meetup.com/PyData-Prague/events/262289857/) (24. 6. 2019 at Microsoft)
 
 #### Karla Fejfarová - My Data Look Like a Mouse ([video](https://www.youtube.com/watch?v=bl0z5jHmFuc), [slides](http://crysa.fzu.cz/karla/slides/2019_pydata.html))
 
@@ -104,7 +104,7 @@ This talk will give you a short tour of the Czech Centre for Phenogenomics in th
 They work in all kinds of companies from startups to corporates. They could be sitting right next to you; the UX designers. But what is their actual job and how could you help each other? Let's find out with Tomáš Muchka, a senior UX designer at GoodData.
 
 
-### [PyData Prague #2 - Optimized Elasticity](https://www.meetup.com/PyData-Prague/events/257775220/) (23. 1. 2019)
+### [PyData Prague #2 - Optimized Elasticity](https://www.meetup.com/PyData-Prague/events/257775220/) (23. 1. 2019 at FIT CTU)
 
 #### Honza Král - The how and why of Elasticsearch ([video](https://www.youtube.com/watch?v=55YJxJbeznQ))
 
@@ -114,7 +114,7 @@ Elasticsearch is an open source distributed datastore, we will see what makes it
 
 Jakub Urban, a senior Pythonista from Quantlane with rich experience in scientific computing and modelling, will show various possibilities for making your (mostly) numerical calculations in Python fast. He will cover optimization and parallelization using Numpy, Numba, Cython or Dask. You will learn that Python can be as fast as Fortran with a very little effort. In case it cannot, you will see how to seamlessly turn Fortran/C/C++ into a Python module.
 
-### [PyData Prague #1 - Open Source and Open Communities](https://www.meetup.com/PyData-Prague/events/254559250/) (18. 10. 2018)
+### [PyData Prague #1 - Open Source and Open Communities](https://www.meetup.com/PyData-Prague/events/254559250/) (18. 10. 2018 at Avast)
 
 #### Ian Ozsvald - NumFOCUS and PyData + Delivering Data Science Projects ([video](https://www.youtube.com/watch?v=6wckJlowTAg))
 
