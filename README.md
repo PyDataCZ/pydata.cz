@@ -22,9 +22,13 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+### PyData Prague #12 - September or October 2022 (TBD at TBD) 
+
+## Past Meetups
+
 ### [PyData Prague #11 - Hovering over Capulets](https://www.meetup.com/pydata-prague/events/286566742/) (27. 6. 2022 at Ataccama)
 
-#### Radek Ježek - Using drone imagery to detect vegetation around power lines
+#### Radek Ježek - Using drone imagery to detect vegetation around power lines ([video](https://www.youtube.com/watch?v=zKjYUnT7DRk)
 
 When was the last time you encountered a power outage? You would be a bit concerned if you knew how much of today's critical infrastructure relies on the uninterrupted supply of electricity. How can drones help? This talk explains how we used drone images to automatically detect one of the most common causes of power outages - when trees come dangerously close to the wires.
 
@@ -39,8 +43,6 @@ The presentation will cover the complete workflow:
 #### Matěj Račinský - Julia in Python's den
 
 Julia is a rather new programming language, designed for modern scientific computing. This talk will compare Julia to Python, discuss its current state and production-readiness, emphasise its strengths and weaknesses, describe the interoperability with Python, and speculate whether it is now a good time to rewrite all your Python projects in Julia - all that with some important takeaways from more than a year of running Julia in production at Avast.
-
-## Past Meetups
 
 ### [PyData Prague #10 - Pandemic Lite](https://www.meetup.com/PyData-Prague/events/285562340/) (10. 5. 2022 at Creative Dock)
 
