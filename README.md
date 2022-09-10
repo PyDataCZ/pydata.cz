@@ -22,7 +22,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-### PyData Prague #12 - [No title yet] 2022 (18. 10. 2022 at LMC) 
+### PyData Prague #12 - [No title yet] (18. 10. 2022 at LMC) 
 
 *Talks to be announced*
 
