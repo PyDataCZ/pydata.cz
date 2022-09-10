@@ -28,7 +28,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ### [PyData Prague #11 - Hovering over Capulets](https://www.meetup.com/pydata-prague/events/286566742/) (27. 6. 2022 at Ataccama)
 
-#### Radek Ježek - Using drone imagery to detect vegetation around power lines ([video](https://www.youtube.com/watch?v=zKjYUnT7DRk)
+#### Radek Ježek - Using drone imagery to detect vegetation around power lines ([video](https://www.youtube.com/watch?v=zKjYUnT7DRk))
 
 When was the last time you encountered a power outage? You would be a bit concerned if you knew how much of today's critical infrastructure relies on the uninterrupted supply of electricity. How can drones help? This talk explains how we used drone images to automatically detect one of the most common causes of power outages - when trees come dangerously close to the wires.
 
