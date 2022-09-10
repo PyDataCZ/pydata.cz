@@ -22,7 +22,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-### PyData Prague #12 - September or October 2022 (TBD at TBD) 
+### PyData Prague #12 - September or October 2022 (TBD at TBD)
 
 ## Past Meetups
 
@@ -40,17 +40,17 @@ The presentation will cover the complete workflow:
 - Building a 3D representation of the wires with epipolar geometry.
 - Visualizing the vegetation encroachment.
 
-#### Matěj Račinský - Julia in Python's den
+#### Matěj Račinský - Julia in Python's den ([video](https://youtu.be/U5zt6OZVxrs))
 
 Julia is a rather new programming language, designed for modern scientific computing. This talk will compare Julia to Python, discuss its current state and production-readiness, emphasise its strengths and weaknesses, describe the interoperability with Python, and speculate whether it is now a good time to rewrite all your Python projects in Julia - all that with some important takeaways from more than a year of running Julia in production at Avast.
 
 ### [PyData Prague #10 - Pandemic Lite](https://www.meetup.com/PyData-Prague/events/285562340/) (10. 5. 2022 at Creative Dock)
 
-#### Jeremy Tuloup - JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python ([slides](https://github.com/jtpio/pydata-prague-meetup-2022))
+#### Jeremy Tuloup - JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python ([slides](https://github.com/jtpio/pydata-prague-meetup-2022), [video](https://youtu.be/mB806GtibR4))
 
 JupyterLite is a JupyterLab distribution that runs entirely in the web browser, backed by in-browser language kernels. This presentation will be a functional talk to present JupyterLite with concrete examples and live demos.
 
-#### Roman Neruda, Petra Vidnerová - Tested on agents - how we designed an agent-based epidemiological model
+#### Roman Neruda, Petra Vidnerová - Tested on agents - how we designed an agent-based epidemiological model ([video](https://youtu.be/aIxrvlL47io))
 
 Epidemiological modeling helps us to understand the dynamics of disease spread and the effects of various protective measures. Agent-based models provide simulation tools for detailed modeling of individual human behavior. We will present a general network agent model that has been used to study epidemic scenarios in various environments, including a typical Czech county, or a school.
 
