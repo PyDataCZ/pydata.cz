@@ -22,15 +22,22 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-### PyData Prague #12 - [No title yet] (18. 10. 2022 at LMC) 
+### [PyData Prague #12 - Minutes to a Degree](https://www.meetup.com/pydata-prague/events/288395992/) (18. 10. 2022 at LMC) 
 
-*Talks to be announced*
+#### Ondřej Bojar - Machine Translation Usable in Practice, Let's Move to Minuting
+
+During the last eight years of deep neural networks rewriting the landscape of machine translation (MT), we got to the stage where MT is clearly usable and progress hard to measure for language pairs covered well with data. Let us now apply similar technologies to the task of automatic creation of minutes from project meetings ("minuting"). With a similar devotion, we should make automatic minutes usable in a couple of years. And perhaps machine understanding will be necessary at last; to my surprise, it was not needed for MT.
+
+#### Martin Fleischmann - A Gentle Introduction to Spatial Data in the Pandas Ecosystem
+
+"Everything is related to everything else, but near things are more related than distant things”
+That is the first law of geography. But how do we apply it to data science? How do we ensure that our analysis has a spatial dimension and that it can be mapped? How can we combine data based on their location? Are there any spatial patterns? These are the questions you will be able to answer after a gentle introduction to spatial data science in the pandas ecosystem. We will start with a brief explanation of the key concepts like geometries and projections to introduce GeoPandas, a package that brings geo to pandas. Then we’ll check how the ecosystem supporting GeoPandas looks like and what it offers, followed by a short excursion to the realm of spatial analytics using the packages from the PySAL (Python Spatial Analysis Library) project. We will be able to expand traditional exploratory data analysis with spatial using the esda package, interpolate data between different spatial units using the tobler package or analyse the structure of cities using momepy. Finally, when the data begin to look too large to work with, we switch to distributed dask-geopandas and wrap up our journey with spatial operations powered by Dask somewhere in the cloud.
 
 ## Past Meetups
 
 ### [PyData Prague #11 - Hovering over Capulets](https://www.meetup.com/pydata-prague/events/286566742/) (27. 6. 2022 at Ataccama)
 
-#### Radek Ježek - Using drone imagery to detect vegetation around power lines ([video](https://www.youtube.com/watch?v=zKjYUnT7DRk)
+#### Radek Ježek - Using drone imagery to detect vegetation around power lines ([video](https://www.youtube.com/watch?v=zKjYUnT7DRk))
 
 When was the last time you encountered a power outage? You would be a bit concerned if you knew how much of today's critical infrastructure relies on the uninterrupted supply of electricity. How can drones help? This talk explains how we used drone images to automatically detect one of the most common causes of power outages - when trees come dangerously close to the wires.
 
@@ -42,17 +49,17 @@ The presentation will cover the complete workflow:
 - Building a 3D representation of the wires with epipolar geometry.
 - Visualizing the vegetation encroachment.
 
-#### Matěj Račinský - Julia in Python's den
+#### Matěj Račinský - Julia in Python's den ([video](https://youtu.be/U5zt6OZVxrs))
 
 Julia is a rather new programming language, designed for modern scientific computing. This talk will compare Julia to Python, discuss its current state and production-readiness, emphasise its strengths and weaknesses, describe the interoperability with Python, and speculate whether it is now a good time to rewrite all your Python projects in Julia - all that with some important takeaways from more than a year of running Julia in production at Avast.
 
 ### [PyData Prague #10 - Pandemic Lite](https://www.meetup.com/PyData-Prague/events/285562340/) (10. 5. 2022 at Creative Dock)
 
-#### Jeremy Tuloup - JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python ([slides](https://github.com/jtpio/pydata-prague-meetup-2022))
+#### Jeremy Tuloup - JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python ([slides](https://github.com/jtpio/pydata-prague-meetup-2022), [video](https://youtu.be/mB806GtibR4))
 
 JupyterLite is a JupyterLab distribution that runs entirely in the web browser, backed by in-browser language kernels. This presentation will be a functional talk to present JupyterLite with concrete examples and live demos.
 
-#### Roman Neruda, Petra Vidnerová - Tested on agents - how we designed an agent-based epidemiological model
+#### Roman Neruda, Petra Vidnerová - Tested on agents - how we designed an agent-based epidemiological model ([video](https://youtu.be/aIxrvlL47io))
 
 Epidemiological modeling helps us to understand the dynamics of disease spread and the effects of various protective measures. Agent-based models provide simulation tools for detailed modeling of individual human behavior. We will present a general network agent model that has been used to study epidemic scenarios in various environments, including a typical Czech county, or a school.
 
