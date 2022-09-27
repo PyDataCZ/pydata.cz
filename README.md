@@ -22,7 +22,16 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-### PyData Prague #12 - September or October 2022 (TBD at TBD)
+### [PyData Prague #12 - Minutes to a Degree](https://www.meetup.com/pydata-prague/events/288395992/) (18. 10. 2022 at LMC) 
+
+#### Ondřej Bojar - Machine Translation Usable in Practice, Let's Move to Minuting
+
+During the last eight years of deep neural networks rewriting the landscape of machine translation (MT), we got to the stage where MT is clearly usable and progress hard to measure for language pairs covered well with data. Let us now apply similar technologies to the task of automatic creation of minutes from project meetings ("minuting"). With a similar devotion, we should make automatic minutes usable in a couple of years. And perhaps machine understanding will be necessary at last; to my surprise, it was not needed for MT.
+
+#### Martin Fleischmann - A Gentle Introduction to Spatial Data in the Pandas Ecosystem
+
+"Everything is related to everything else, but near things are more related than distant things”
+That is the first law of geography. But how do we apply it to data science? How do we ensure that our analysis has a spatial dimension and that it can be mapped? How can we combine data based on their location? Are there any spatial patterns? These are the questions you will be able to answer after a gentle introduction to spatial data science in the pandas ecosystem. We will start with a brief explanation of the key concepts like geometries and projections to introduce GeoPandas, a package that brings geo to pandas. Then we’ll check how the ecosystem supporting GeoPandas looks like and what it offers, followed by a short excursion to the realm of spatial analytics using the packages from the PySAL (Python Spatial Analysis Library) project. We will be able to expand traditional exploratory data analysis with spatial using the esda package, interpolate data between different spatial units using the tobler package or analyse the structure of cities using momepy. Finally, when the data begin to look too large to work with, we switch to distributed dask-geopandas and wrap up our journey with spatial operations powered by Dask somewhere in the cloud.
 
 ## Past Meetups
 
