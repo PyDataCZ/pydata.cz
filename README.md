@@ -22,6 +22,20 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+(Beginning of May, details soon)
+
+## Past Meetups
+
+### [PyData Prague #13 - In Good We Rust](https://www.meetup.com/pydata-prague/events/290041316/) (13.12.2022 at Deepnote)
+
+#### Ondřej Vostál - Async Python modules in Rust
+
+I'll demonstrate how to write a Python module in Rust. What's more, the module will communicate both ways between Python and Rust using asyncio and tokio. After the talk, you'll be able to write an app that asynchronously processes data in Rust without holding the GIL. The main advantage of this approach as opposed to microservices is less boilerplate and saving the IPC overhead.
+
+#### Jan Soubousta - How we built a Python SDK for our (open) APIs
+
+During this session, we will present how we built and open-sourced a Python SDK for our analytics APIs covered by OpenAPI specification. We will share best practices applied on Python projects (data classes, services, tests, documentation, Github actions, pip, ...). In the end, we will conduct a live demo - Github APIs -> PostgreSQL -> dbt -> GoodData -> Deepnote(GoodData Python SDK).
+
 ### [PyData Prague #12 - Minutes to a Degree](https://www.meetup.com/pydata-prague/events/288395992/) (18. 10. 2022 at LMC) 
 
 #### Ondřej Bojar - Machine Translation Usable in Practice, Let's Move to Minuting
@@ -32,8 +46,6 @@ During the last eight years of deep neural networks rewriting the landscape of m
 
 "Everything is related to everything else, but near things are more related than distant things”
 That is the first law of geography. But how do we apply it to data science? How do we ensure that our analysis has a spatial dimension and that it can be mapped? How can we combine data based on their location? Are there any spatial patterns? These are the questions you will be able to answer after a gentle introduction to spatial data science in the pandas ecosystem. We will start with a brief explanation of the key concepts like geometries and projections to introduce GeoPandas, a package that brings geo to pandas. Then we’ll check how the ecosystem supporting GeoPandas looks like and what it offers, followed by a short excursion to the realm of spatial analytics using the packages from the PySAL (Python Spatial Analysis Library) project. We will be able to expand traditional exploratory data analysis with spatial using the esda package, interpolate data between different spatial units using the tobler package or analyse the structure of cities using momepy. Finally, when the data begin to look too large to work with, we switch to distributed dask-geopandas and wrap up our journey with spatial operations powered by Dask somewhere in the cloud.
-
-## Past Meetups
 
 ### [PyData Prague #11 - Hovering over Capulets](https://www.meetup.com/pydata-prague/events/286566742/) (27. 6. 2022 at Ataccama)
 
