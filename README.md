@@ -22,7 +22,21 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-(Beginning of May, details soon)
+### [PyData Prague #14 - Voice upon a Time](https://www.meetup.com/pydata-prague/events/293042146/) (3.5.2023 at Heureka)
+
+#### Karel Boháček -  Sign language recognition: Enabling communication for the hearing-impaired through machine learning
+
+In this talk, our project on sign language recognition will be presented. The aim of the project is to create a prototype app that can facilitate communication between hearing-impaired individuals and those who do not know sign language. The challenges faced by hearing-impaired individuals in communicating with the general population will be discussed, and how technology can help bridge this gap will be explained.
+
+A Python code relying on Mediapipe library will be introduced, and its use in extracting key features from sign language gestures, such as hand and finger positions and movements, will be explained. The machine learning techniques used to recognize and classify these gestures will be delved into. The data preprocessing steps, model selection, and training process will be covered, as well as the evaluation metrics used to measure the accuracy of the model. Finally, the prototype will be showcased, and its operation in real-time will be demonstrated. The limitations of our current approach and potential future developments in the field will also be discussed.
+
+#### Franz Kiraly - A unified interface for machine learning with time series - an introduction
+
+Sktime is a widely used scikit-learn compatible library for learning with time series. sktime is easily extensible by anyone, and interoperable with the pydata/numfocus stack.
+
+This short talk gives an introduction to sktime, the time series learning tasks it addresses, and a summary of usage and interfaces. It further introduces common feature extraction, pipelines and composition building blocks, and explains reduction patterns in sktime – using an estimator or object for one learning task to solve another, e.g., a tabular regressor for forecasting.
+
+This is a basic introduction and an overview talk, no prior knowledge is required.
 
 ## Past Meetups
 
