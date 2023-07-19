@@ -1,5 +1,10 @@
 # PyData Prague
 
+- [Meetup](https://www.meetup.com/PyData-Prague/) - Find and register to our meetups here!
+- [Twitter](https://www.twitter.com/PyDataPrague/) - We post here...
+- [LinkedIn](https://www.linkedin.com/company/pydata-prague/) - ...and here...
+- [Facebook](https://www.facebook.com/PyDataPrague) - ...and here!
+
 PyData Prague is a community of data scientists, engineers, analysts, and various other developers in the area of scientific computing and data analysis. The term [PyData](https://pydata.org/) refers to an educational program of [NumFOCUS](https://numfocus.org/), an american non-profit helping open source software in terms of governance, financial support, and operations.
 
 The PyData network hosts meetups in hundreds of cities around the world and several conferences each year. The Prague chapter started in 2018 with the aim of spreading the word of open source scientific computing in the Czech Republic. And while the chapter is based in Prague, we operate and collaborate countrywide.
@@ -22,6 +27,10 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+There are no meetups planned for the nearest future... BUT join us at [PyCon CZ](https://cz.pycon.org/2023/) for a track full of data-centered talks and much much more!
+
+## Past Meetups
+
 ### [PyData Prague #14 - Voice upon a Time](https://www.meetup.com/pydata-prague/events/293042146/) (3.5.2023 at Heureka)
 
 #### Karel Boháček -  Sign language recognition: Enabling communication for the hearing-impaired through machine learning
@@ -37,8 +46,6 @@ Sktime is a widely used scikit-learn compatible library for learning with time s
 This short talk gives an introduction to sktime, the time series learning tasks it addresses, and a summary of usage and interfaces. It further introduces common feature extraction, pipelines and composition building blocks, and explains reduction patterns in sktime – using an estimator or object for one learning task to solve another, e.g., a tabular regressor for forecasting.
 
 This is a basic introduction and an overview talk, no prior knowledge is required.
-
-## Past Meetups
 
 ### [PyData Prague #13 - In Good We Rust](https://www.meetup.com/pydata-prague/events/290041316/) (13.12.2022 at Deepnote)
 
