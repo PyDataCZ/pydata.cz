@@ -27,7 +27,28 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-There are no meetups planned for the nearest future... BUT join us at [PyCon CZ](https://cz.pycon.org/2023/) for a track full of data-centered talks and much much more!
+### [PyData Prague #15 - Augmented Storyteller](https://www.meetup.com/pydata-prague/events/297072175/) (20.11.2023 at Ataccama)
+
+### Furkan M. Torun - Become a Data Storyteller with Streamlit!
+
+In a data-driven world, the ability to tell stories with data is a superpower. Join us on a journey to unlock this power with Streamlit, an easy-to-use and user-friendly tool for building and sharing interactive web applications for data science and machine learning in a fast way. In this talk, we will dive into the numerous advantages of Streamlit as your trusted companion in the art of data storytelling. We will explore its components and learn how they can effortlessly turn your data into interactive and intuitive visual experiences.
+
+But that's not all! We'll also embark on a voyage through a few of real-world use cases where Streamlit shines, from rapid data exploration to prototype machine learning models, and even creating custom, user-friendly data dashboards.
+
+By the end of this talk, you'll be armed with the knowledge and tools to captivate your audience through the magic of data-driven storytelling. Don't miss your chance to unleash your inner data storyteller with Streamlit!
+
+### Soheyla Mirshahi - Retrieval Augmented Generation (RAG) In Practice
+
+General-Purpose large language models (LLMs) such as GPT-3 and Llama 2 have some limitations when coming to do some specific tasks. Retrieval Augmented Generation (RAG) and Fine-Tuning are two powerful techniques for enhancing the reliability of LLMs in organizations.
+
+During this talk, we'll explore:
+- The Pros and Cons: Dive deep into the advantages and potential pitfalls of RAG and Fine-Tuning.
+- Decision Factors: Understand the context that might lead you to choose one method over the other, or even integrate both.
+- A Real-World Example: A step-by-step walkthrough of how we employed RAG to address issues like outdated information, domain knowledge gaps, hallucinations, and other common challenges of LLMs.
+- Challenges and Resolutions: reveal the bottlenecks we encountered – be it data quality, retrieval efficiency, model intricacies, or evaluation standards – and the strategies weadopted to navigate them.
+- Optimization Tips: Practical advice and best practices to optimize your RAG deployment. By the end of this talk, you will have a clear understanding of if the RAG is the best optionfor you, if yes, how to do it in practice and what challenges to expect and how to address them.
+
+This talk is suitable for data analysts, data scientists and LLMs enthusiast who want to have some understanding on the reality of using LLMs in production. Warning! It is not all roses; it gets dirty so fast.
 
 ## Past Meetups
 
