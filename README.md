@@ -29,7 +29,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ### [PyData Prague #15 - Augmented Storyteller](https://www.meetup.com/pydata-prague/events/297072175/) (20.11.2023 at Ataccama)
 
-### Furkan M. Torun - Become a Data Storyteller with Streamlit!
+#### Furkan M. Torun - Become a Data Storyteller with Streamlit!
 
 In a data-driven world, the ability to tell stories with data is a superpower. Join us on a journey to unlock this power with Streamlit, an easy-to-use and user-friendly tool for building and sharing interactive web applications for data science and machine learning in a fast way. In this talk, we will dive into the numerous advantages of Streamlit as your trusted companion in the art of data storytelling. We will explore its components and learn how they can effortlessly turn your data into interactive and intuitive visual experiences.
 
@@ -37,7 +37,7 @@ But that's not all! We'll also embark on a voyage through a few of real-world us
 
 By the end of this talk, you'll be armed with the knowledge and tools to captivate your audience through the magic of data-driven storytelling. Don't miss your chance to unleash your inner data storyteller with Streamlit!
 
-### Soheyla Mirshahi - Retrieval Augmented Generation (RAG) In Practice
+#### Soheyla Mirshahi - Retrieval Augmented Generation (RAG) In Practice
 
 General-Purpose large language models (LLMs) such as GPT-3 and Llama 2 have some limitations when coming to do some specific tasks. Retrieval Augmented Generation (RAG) and Fine-Tuning are two powerful techniques for enhancing the reliability of LLMs in organizations.
 
