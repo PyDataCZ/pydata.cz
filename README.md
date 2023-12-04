@@ -27,6 +27,20 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+### [🇨🇿 Velké jazykomodely české a slovenské](https://www.meetup.com/pydata-prague/events/297681491/) (15.12.2023 at MFF UK)
+
+Pracovat s velkými jazykovými modely je mnohem jednodušší než bývalo před pár lety a dnes si svůj generativní AI model může natrénovat doslova každý. Při přechodu z angličtiny k českým a slovenským textům ale spousta z nás naráží na ty samé problémy. Pojďme si o nich vykládat a diskutovat o řešeních: tematicky od těch "menších" velkých jazykových modelů jako je BERT přes multilingual embeddingy a ChatGPT API až po volně dostupné modely jako Llama2 a Mistral, od QLoRA adaptorů až po etické otázky a náladu ve společnosti.
+
+💬 Tento PyData meetup bude mít pro nás netradiční formát panelové diskuze. Vzhledem k tématu bude oficiálním jazykem 🇨🇿 českoslovenština 🇸🇰.
+
+🙌 Pozvání do panelu přijali:
+- Jindřich Libovický (ÚFAL MFF UK)
+- Filip Uhlarik (Gerulata Technologies, STU v Bratislave)
+- Petr Šimeček (CEITEC MU, Mediaboard)
+- Jakub Náplava (Seznam.cz)
+
+## Past Meetups
+
 ### [PyData Prague #15 - Augmented Storyteller](https://www.meetup.com/pydata-prague/events/297072175/) (20.11.2023 at Ataccama)
 
 #### Furkan M. Torun - Become a Data Storyteller with Streamlit!
@@ -49,8 +63,6 @@ During this talk, we'll explore:
 - Optimization Tips: Practical advice and best practices to optimize your RAG deployment. By the end of this talk, you will have a clear understanding of if the RAG is the best optionfor you, if yes, how to do it in practice and what challenges to expect and how to address them.
 
 This talk is suitable for data analysts, data scientists and LLMs enthusiast who want to have some understanding on the reality of using LLMs in production. Warning! It is not all roses; it gets dirty so fast.
-
-## Past Meetups
 
 ### [PyData Prague #14 - Voice upon a Time](https://www.meetup.com/pydata-prague/events/293042146/) (3.5.2023 at Heureka)
 
