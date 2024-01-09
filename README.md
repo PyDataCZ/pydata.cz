@@ -27,6 +27,19 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+### [PyData Prague #17 - One Chirped over the Large Data Nest](https://www.meetup.com/pydata-prague/events/298421104) (24.1.2024 at Apify)
+
+#### Stefan Kahl & Josef Haupt - AI-powered bioacoustic monitoring with BirdNET
+
+In this talk, we will explore the fundamental principles of bioacoustic monitoring, highlighting the challenges of traditional methods and the breakthroughs enabled by AI. We will introduce BirdNET and explain its development, its capabilities and the machine learning algorithms that enable its performance. In our presentation, we will provide a comprehensive analysis of case studies where BirdNET has been successfully deployed, demonstrating its effectiveness in different ecosystems and its pivotal role in bird species identification and population tracking.
+In addition, we will discuss the wider implications of AI for ecological research and conservation efforts. The integration of BirdNET into citizen science projects and its impact on public involvement in conservation activities will also be highlighted. The presentation will conclude with an outlook on possible future developments in the field of AI-assisted bioacoustic monitoring and the exciting opportunities this presents for our understanding and protection of the natural world.
+
+#### Jiří Moravčík - The data behind the success of (not only) large language models
+
+In 2023, the spotlight shone on AI, marking a transformative shift from a specialized computer science domain to a widely discussed topic across society. ChatGPT and other Language Models (LLMs) captured global attention. This talk explores the pivotal datasets driving the training of AI models, investigating their background, creation methods, and more. Additionally, we'll delve into some controversies surrounding existing datasets.
+
+## Past Meetups
+
 ### [🇨🇿 Velké jazykomodely české a slovenské](https://www.meetup.com/pydata-prague/events/297681491/) (15.12.2023 at MFF UK)
 
 Pracovat s velkými jazykovými modely je mnohem jednodušší než bývalo před pár lety a dnes si svůj generativní AI model může natrénovat doslova každý. Při přechodu z angličtiny k českým a slovenským textům ale spousta z nás naráží na ty samé problémy. Pojďme si o nich vykládat a diskutovat o řešeních: tematicky od těch "menších" velkých jazykových modelů jako je BERT přes multilingual embeddingy a ChatGPT API až po volně dostupné modely jako Llama2 a Mistral, od QLoRA adaptorů až po etické otázky a náladu ve společnosti.
@@ -38,8 +51,6 @@ Pracovat s velkými jazykovými modely je mnohem jednodušší než bývalo pře
 - Filip Uhlarik (Gerulata Technologies, STU v Bratislave)
 - Petr Šimeček (CEITEC MU, Mediaboard)
 - Jakub Náplava (Seznam.cz)
-
-## Past Meetups
 
 ### [PyData Prague #15 - Augmented Storyteller](https://www.meetup.com/pydata-prague/events/297072175/) (20.11.2023 at Ataccama)
 
