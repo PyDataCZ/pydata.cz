@@ -27,6 +27,20 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+No meetups publicly announced yet. We are finalising arrangements for April and May ones.
+
+## Past Meetups
+
+### [PyData Prague #18 - A Vector from Lab to Hub](https://www.meetup.com/pydata-prague/events/298734567/) (29.2.2024 at Pure Storage)
+
+#### Milan Ondrašovič - Unlocking Efficiency: The Power of Vectorization
+
+In this talk, we will break down a crucial yet often overlooked skill for ML engineers and data scientists: code vectorization, the cornerstone of modern numerical libraries. The aim is to show when and how to apply this technique to significantly boost performance. We will provide practical insight on implementation, discuss pros and cons, and explore the impact on the codebase. Using primarily Python and NumPy, our code examples will demonstrate the portability of vectorized solutions across libraries and languages.
+
+#### Jakub Hettler - Jupyter(Hub/Lab): Journey from On-prem to AWS
+
+Let’s have a look at how we @AlmaCareer Czechia Business Intelligence team moved JupyterHub and JupyterLab from on-premise infrastructure to AWS. Why we used Amazon Sagemaker Studio for just 3 weeks and why we are happy with Jupyter running on top of Coder (coder.com) in AWS at the end. Infrastructure point of view with deeper dive into pros/cons of on-prem JupyterHub/Lab on Hashicorp Nomad, Amazon Sagemaker Studio and Coder. All this considering the requirements of 20 working users in JupyterLab.
+
 ### [PyData Prague #17 - One Chirped over the Large Data Nest](https://www.meetup.com/pydata-prague/events/298421104) (24.1.2024 at Apify)
 
 #### Stefan Kahl & Josef Haupt - AI-powered bioacoustic monitoring with BirdNET
@@ -37,8 +51,6 @@ In addition, we will discuss the wider implications of AI for ecological researc
 #### Jiří Moravčík - The data behind the success of (not only) large language models
 
 In 2023, the spotlight shone on AI, marking a transformative shift from a specialized computer science domain to a widely discussed topic across society. ChatGPT and other Language Models (LLMs) captured global attention. This talk explores the pivotal datasets driving the training of AI models, investigating their background, creation methods, and more. Additionally, we'll delve into some controversies surrounding existing datasets.
-
-## Past Meetups
 
 ### [🇨🇿 Velké jazykomodely české a slovenské](https://www.meetup.com/pydata-prague/events/297681491/) (15.12.2023 at MFF UK)
 
