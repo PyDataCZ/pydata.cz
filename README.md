@@ -1,5 +1,11 @@
 # PyData Prague
 
+Contact:
+
+- [info@pydata.cz](mailto:info@pydata.cz)
+
+Social networks:
+
 - [Meetup](https://www.meetup.com/PyData-Prague/) - Find and register to our meetups here!
 - [Twitter](https://www.twitter.com/PyDataPrague/) - We post here...
 - [LinkedIn](https://www.linkedin.com/company/pydata-prague/) - ...and here...
