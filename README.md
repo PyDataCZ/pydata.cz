@@ -33,7 +33,16 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-No meetups publicly announced yet. We are finalising arrangements for April and May ones.
+### [PyData Prague #19 - Pandas in Heaven](https://www.meetup.com/pydata-prague/events/300451488/) (23.4.2024 at ČSOB)
+
+#### Jakub Kramata - Big Bank Data in Migration: From In-House CSV to Parquet in Amazon S3
+
+What is it like to migrate data from on-prem systems to the cloud in one of the largest banks in the Czech Republic? How to check that nothing has changed along the way? Join us to discover our Python-based solution! Not only will we go through the code, but we'll also focus on the pitfalls, challenges, and hardships we have encountered along the way. We will thoroughly explain how we verify the migrated data, which is exported as CSV from the source system and stored as Parquet in the AWS Data Lake. Expect a candid and emotional presentation with thoughtfully named commits.
+
+#### Hadi Abdi Khojasteh - Pandas Roadmap and Beyond
+
+Discover the essence of Pandas Enhancement Proposals aka PDEPs and their impact on the landscape of data analysis with Pandas. Join us for an overview of proposed changes, aimed at addressing corner cases and inconsistencies that have emerged over years of development, presented by one of Pandas' core contributors. From banning (up)casting in "setitem-like" operations to reevaluating inplace option in methods, delve into the behavioural shifts shaping the Pandas roadmap. Gain insight into the evolving copy and view semantics of operations, offering a glimpse into the anticipated Pandas 3.0 experience by overviewing changes in the new version.
+
 
 ## Past Meetups
 
@@ -119,7 +128,7 @@ I'll demonstrate how to write a Python module in Rust. What's more, the module w
 
 During this session, we will present how we built and open-sourced a Python SDK for our analytics APIs covered by OpenAPI specification. We will share best practices applied on Python projects (data classes, services, tests, documentation, Github actions, pip, ...). In the end, we will conduct a live demo - Github APIs -> PostgreSQL -> dbt -> GoodData -> Deepnote(GoodData Python SDK).
 
-### [PyData Prague #12 - Minutes to a Degree](https://www.meetup.com/pydata-prague/events/288395992/) (18. 10. 2022 at LMC) 
+### [PyData Prague #12 - Minutes to a Degree](https://www.meetup.com/pydata-prague/events/288395992/) (18. 10. 2022 at LMC)
 
 #### Ondřej Bojar - Machine Translation Usable in Practice, Let's Move to Minuting
 
