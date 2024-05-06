@@ -33,6 +33,19 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+### [Open Source Science @ PyData Prague #20](https://www.meetup.com/pydata-prague/events/300721007/) (16.5.2024 at FNSPE CTU)
+
+Join us at the forefront of innovation at the Open-Source Science @ PyData Prague Meetup, where open source meets science.
+
+**Highlights**:
+- Engaging talks on open source, AI, and scientific research from various domains.
+- Interactive panel discussions.
+- Networking opportunities with a community of academics, developers, and industry professionals.
+
+[Open-Source Science (OSSci)](https://opensource.science/) is a NumFOCUS initiative – launched in July 2022 in partnership with IBM – aimed at accelerating scientific research by improving the ways open-source scientific software gets done (built, used, funded, sustained, recognized, etc.). OSSci connects scientists, OSS developers, and other stakeholders to share best practices, identify common pain points, and explore solutions together.
+
+## Past Meetups
+
 ### [PyData Prague #19 - Pandas in Heaven](https://www.meetup.com/pydata-prague/events/300451488/) (23.4.2024 at ČSOB)
 
 #### Jakub Kramata - Big Bank Data in Migration: From In-House CSV to Parquet in Amazon S3
@@ -42,9 +55,6 @@ What is it like to migrate data from on-prem systems to the cloud in one of the 
 #### Hadi Abdi Khojasteh - Pandas Roadmap and Beyond
 
 Discover the essence of Pandas Enhancement Proposals aka PDEPs and their impact on the landscape of data analysis with Pandas. Join us for an overview of proposed changes, aimed at addressing corner cases and inconsistencies that have emerged over years of development, presented by one of Pandas' core contributors. From banning (up)casting in "setitem-like" operations to reevaluating inplace option in methods, delve into the behavioural shifts shaping the Pandas roadmap. Gain insight into the evolving copy and view semantics of operations, offering a glimpse into the anticipated Pandas 3.0 experience by overviewing changes in the new version.
-
-
-## Past Meetups
 
 ### [PyData Prague #18 - A Vector from Lab to Hub](https://www.meetup.com/pydata-prague/events/298734567/) (29.2.2024 at Pure Storage)
 
