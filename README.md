@@ -37,12 +37,54 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 Join us at the forefront of innovation at the Open-Source Science @ PyData Prague Meetup, where open source meets science.
 
-**Highlights**:
-- Engaging talks on open source, AI, and scientific research from various domains.
-- Interactive panel discussions.
-- Networking opportunities with a community of academics, developers, and industry professionals.
-
 [Open-Source Science (OSSci)](https://opensource.science/) is a NumFOCUS initiative – launched in July 2022 in partnership with IBM – aimed at accelerating scientific research by improving the ways open-source scientific software gets done (built, used, funded, sustained, recognized, etc.). OSSci connects scientists, OSS developers, and other stakeholders to share best practices, identify common pain points, and explore solutions together.
+
+#### Agenda:
+- 17:00: Doors open
+- 17:20: Welcome note
+- 17:30: Talks
+  - [Tim Bonemann](https://www.linkedin.com/in/tbonnemann/): Open Source Science (OSSci) Initiative
+  - [Evelina Gabašová](https://www.linkedin.com/in/egabasova/): Open source and academia: Research software engineering perspective
+  - [Derek Homeier](https://github.com/dhomeier): Astropy – a community effort to develop a common core package for Astronomy in Python
+  - [Martin Fleischmann](https://www.linkedin.com/in/fleischmannmartin/): Open by Default: Developing reproducible, computational research
+- 19:00: Break for networking and refreshments
+- 19:30: Panel discussion
+- 20:00+: Networking around the venue
+
+#### Abstracts
+
+##### Evelina Gabašová: Open source and academia: Research software engineering perspective
+
+In the British academic system, a new movement was established in 2012 called "research software engineering". The goal has been to recognise and promote the vital role of software in research and establish academic career paths for people who develop it. As a Vice-President of the Society of Research Software Engineering (and a research software engineer herself), Evelina will talk about some of the lessons learned over the past decade and what have been the challenges in recognising software and open source contributions as fully-fledged academic outputs.
+
+##### Derek Homeier: Astropy – a community effort to develop a common core package for Astronomy in Python
+
+Since the early 2010s Python has been recognised as a powerful option offering an
+alternative to then-dominant proprietary platforms like IDL or Matlab, or compiled
+(and often also proprietary) languages like Fortran and C++, for scientific data processing
+in the astrophysics research community. The need to implement efficient array computation
+and visualisation led to significant contributions to evolving modules like Numarray/Numpy
+and Matplotlib from some institutions and many individuals in the community; yet individual
+needs also started to set off a proliferation of independent solutions.
+Astropy was created to foster an ecosystem of interoperable astronomy packages,
+sharing common coding standards and data APIs, to allow and actively encourage
+contributors throughout the astronomical community to invest their development
+work into a widely usable and professionally maintained package.
+A decade later this has made Python+Astropy now the dominant data-processing platform
+in astrophysical research. But with this growth the project has also evolved from a relatively
+informal team effort to a more formally organised and structured system.
+
+##### Martin Fleischmann: Open by Default: Developing reproducible, computational research
+
+While academic research heavily depends on open-source software, the relationship is often one-way. We believe that designing research in close relation to open-source development is beneficial for all parties and present one way of doing that, by turning a research project into a component of the open-source ecosystem.
+
+Academic research often depends on open-source software. Still, researchers do not contribute back that often due to the lack of institutional incentives, time demands, or an imposter syndrome (“my code is too messy”). However, open-source software development doesn’t have to be detached from academic work. The first step is a decision to make the code open. Then the question is, how? From an academic standpoint, packing up the functionality into a new package instead of contributing to existing libraries could lead to additional publications that matter in career progress. However, from an open-source standpoint, such an approach widens the ecosystem’s fragmentation and threatens its sustainability. In this talk, we outline why we chose the path benefiting open source over the academic benefits, how we did it and our vision of academic work closely linked to open-source development. We illustrate this approach in our work on the Urban Grammar AI project, combining aspects of radical openness of the process, making research code available as it is written, and enhancing existing libraries when we need new functionality. It led to significant contributions to the GeoPandas and PySAL ecosystems, a release of one independent package with functionality that didn’t fit elsewhere, and further developments of a canonical Docker container for geographic data science.
+
+
+Martin is a researcher in **urban morphology** and spatial data science focusing on quantitative analysis and classification of cities, remote sensing, and all the related things. He is a member the [Urban and Regional Laboratory](http://urrlab.cz/) at the Charles University in Prague where he leads the [Research Team on Urban Structure](https://uscuni.github.io/), a fellow in the [Geographic Data Science Lab](http://geographicdatascience.com/) at the University of Liverpool. While not doing the research, he writes open source software, promotes open science and helps others with their data.
+
+Martin is an author or a maintainer of a range of open scientific software. He developed [`momepy`](http://docs.momepy.org/), the open source urban morphology measuring toolkit for Python providing a wide range of tools for morphometric analysis. Since 2019, Martin is a member of the development team of [`GeoPandas`](http://geopandas.org/), the open source Python package for geographic data. In 2020, he joined the development team of [`PySAL`](https://pysal.org/), the Python library for spatial analysis. On top of that, he regularly contributes to other open source projects and develops his own packages like [`Clustergram`](http://clustergram.readthedocs.io/) for visualisation of cluster analysis or [`Xvec`](https://xvec.readthedocs.io/) for vector data cubes handling.
+
 
 ## Past Meetups
 
