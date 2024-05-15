@@ -43,7 +43,7 @@ Join us at the forefront of innovation at the Open-Source Science @ PyData Pragu
 - 17:00: Doors open
 - 17:20: Welcome note
 - 17:30: Talks
-  - [Tim Bonemann](https://www.linkedin.com/in/tbonnemann/): Open Source Science (OSSci) Initiative
+  - [Tim Bonnemann](https://www.linkedin.com/in/tbonnemann/): Accelerating Science with Open Source – An Introduction to Open-Source Science (OSSci)
   - [Evelina Gabašová](https://www.linkedin.com/in/egabasova/): Open source and academia: Research software engineering perspective
   - [Derek Homeier](https://github.com/dhomeier): Astropy – a community effort to develop a common core package for Astronomy in Python
   - [Martin Fleischmann](https://www.linkedin.com/in/fleischmannmartin/): Open by Default: Developing reproducible, computational research
@@ -52,6 +52,10 @@ Join us at the forefront of innovation at the Open-Source Science @ PyData Pragu
 - 20:00+: Networking around the venue
 
 #### Abstracts
+
+##### Tim Bonnemann: Accelerating Science with Open Source – An Introduction to Open-Source Science (OSSci)
+
+Open-Source Science (OSSci) is a NumFOCUS initiative – launched in July 2022 in partnership with IBM – that aims to accelerate scientific research by improving the ways open source software in science gets done (built, used, funded, sustained, recognized, etc.). OSSci connects scientists, OSS developers and other stakeholders to share best practices, identify common pain points, and explore solutions together. The five OSSci interest groups to date cover domain-specific topics (chemistry/materials, life sciences/healthcare, climate/sustainability) as well as cross-domain topics (reproducibility, map of science), with more to be rolled out in 2024. This talk will provide a brief overview of OSSci’s activities to date, our plans for 2024, and how you can get involved.
 
 ##### Evelina Gabašová: Open source and academia: Research software engineering perspective
 
