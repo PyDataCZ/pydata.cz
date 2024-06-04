@@ -168,7 +168,7 @@ This is a basic introduction and an overview talk, no prior knowledge is require
 
 I'll demonstrate how to write a Python module in Rust. What's more, the module will communicate both ways between Python and Rust using asyncio and tokio. After the talk, you'll be able to write an app that asynchronously processes data in Rust without holding the GIL. The main advantage of this approach as opposed to microservices is less boilerplate and saving the IPC overhead.
 
-#### Jan Soubousta - How we built a Python SDK for our (open) APIs
+#### Jan Soubusta - How we built a Python SDK for our (open) APIs
 
 During this session, we will present how we built and open-sourced a Python SDK for our analytics APIs covered by OpenAPI specification. We will share best practices applied on Python projects (data classes, services, tests, documentation, Github actions, pip, ...). In the end, we will conduct a live demo - Github APIs -> PostgreSQL -> dbt -> GoodData -> Deepnote(GoodData Python SDK).
 
