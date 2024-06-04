@@ -33,7 +33,15 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-There are no upcoming meetups (but coming soon!)
+### [PyData Prague #21 - Duck Hyping](https://www.meetup.com/pydata-prague/events/301435048/) (17.6.2024 at Keboola)
+
+#### František Kaláb - How Data Improves Your Life in Prague
+
+At Prague Data Platform, we collect, process, and evaluate data from the city to enhance decision-making and improve the lives of its citizens. From waste management to public transport, this talk will provide an overview of the city's data landscape and showcase specific areas where data is leveraged to the city's advantage. I will also discuss how we utilize open-source technologies and adhere to open standards to make our work transparent and accessible to clients and citizens.
+
+#### David Ešner - DuckDB Intro with Case Study from Keboola
+
+DuckDB is a powerful tool for data analysts and data engineers. It is an embedded, in-process database that provides connectors and capabilities comparable to complex query engines like Spark or Presto, yet it's as simple to set up as SQLite. In this talk, I will provide a brief introduction to the technology and how we leverage it as a simple magic wand for easy, in-process data crunching within the Keboola container architecture. I will walk you through our rather unusual use cases
 
 ## Past Meetups
 
@@ -160,7 +168,7 @@ This is a basic introduction and an overview talk, no prior knowledge is require
 
 I'll demonstrate how to write a Python module in Rust. What's more, the module will communicate both ways between Python and Rust using asyncio and tokio. After the talk, you'll be able to write an app that asynchronously processes data in Rust without holding the GIL. The main advantage of this approach as opposed to microservices is less boilerplate and saving the IPC overhead.
 
-#### Jan Soubousta - How we built a Python SDK for our (open) APIs ([video](https://www.youtube.com/watch?v=v3997cSwNGw))
+#### Jan Soubusta - How we built a Python SDK for our (open) APIs ([video](https://www.youtube.com/watch?v=v3997cSwNGw))
 
 During this session, we will present how we built and open-sourced a Python SDK for our analytics APIs covered by OpenAPI specification. We will share best practices applied on Python projects (data classes, services, tests, documentation, Github actions, pip, ...). In the end, we will conduct a live demo - Github APIs -> PostgreSQL -> dbt -> GoodData -> Deepnote(GoodData Python SDK).
 
