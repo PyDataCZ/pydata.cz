@@ -94,12 +94,12 @@ Let’s have a look at how we @AlmaCareer Czechia Business Intelligence team mov
 
 ### [PyData Prague #17 - One Chirped over the Large Data Nest](https://www.meetup.com/pydata-prague/events/298421104) (24.1.2024 at Apify)
 
-#### Stefan Kahl & Josef Haupt - AI-powered bioacoustic monitoring with BirdNET
+#### Stefan Kahl & Josef Haupt - AI-powered bioacoustic monitoring with BirdNET ([video](https://www.youtube.com/watch?v=K7eUjCIqNM0))
 
 In this talk, we will explore the fundamental principles of bioacoustic monitoring, highlighting the challenges of traditional methods and the breakthroughs enabled by AI. We will introduce BirdNET and explain its development, its capabilities and the machine learning algorithms that enable its performance. In our presentation, we will provide a comprehensive analysis of case studies where BirdNET has been successfully deployed, demonstrating its effectiveness in different ecosystems and its pivotal role in bird species identification and population tracking.
 In addition, we will discuss the wider implications of AI for ecological research and conservation efforts. The integration of BirdNET into citizen science projects and its impact on public involvement in conservation activities will also be highlighted. The presentation will conclude with an outlook on possible future developments in the field of AI-assisted bioacoustic monitoring and the exciting opportunities this presents for our understanding and protection of the natural world.
 
-#### Jiří Moravčík - The data behind the success of (not only) large language models
+#### Jiří Moravčík - The data behind the success of (not only) large language models ([video](https://www.youtube.com/watch?v=ximUxRDc-K8))
 
 In 2023, the spotlight shone on AI, marking a transformative shift from a specialized computer science domain to a widely discussed topic across society. ChatGPT and other Language Models (LLMs) captured global attention. This talk explores the pivotal datasets driving the training of AI models, investigating their background, creation methods, and more. Additionally, we'll delve into some controversies surrounding existing datasets.
 
@@ -117,7 +117,7 @@ Pracovat s velkými jazykovými modely je mnohem jednodušší než bývalo pře
 
 ### [PyData Prague #15 - Augmented Storyteller](https://www.meetup.com/pydata-prague/events/297072175/) (20.11.2023 at Ataccama)
 
-#### Furkan M. Torun - Become a Data Storyteller with Streamlit!
+#### Furkan M. Torun - Become a Data Storyteller with Streamlit! ([video](https://www.youtube.com/watch?v=zi9KgTJjnjc))
 
 In a data-driven world, the ability to tell stories with data is a superpower. Join us on a journey to unlock this power with Streamlit, an easy-to-use and user-friendly tool for building and sharing interactive web applications for data science and machine learning in a fast way. In this talk, we will dive into the numerous advantages of Streamlit as your trusted companion in the art of data storytelling. We will explore its components and learn how they can effortlessly turn your data into interactive and intuitive visual experiences.
 
@@ -156,11 +156,11 @@ This is a basic introduction and an overview talk, no prior knowledge is require
 
 ### [PyData Prague #13 - In Good We Rust](https://www.meetup.com/pydata-prague/events/290041316/) (13.12.2022 at Deepnote)
 
-#### Ondřej Vostál - Async Python modules in Rust
+#### Ondřej Vostál - Async Python modules in Rust ([video](https://www.youtube.com/watch?v=yKPMP8N3-yg))
 
 I'll demonstrate how to write a Python module in Rust. What's more, the module will communicate both ways between Python and Rust using asyncio and tokio. After the talk, you'll be able to write an app that asynchronously processes data in Rust without holding the GIL. The main advantage of this approach as opposed to microservices is less boilerplate and saving the IPC overhead.
 
-#### Jan Soubousta - How we built a Python SDK for our (open) APIs
+#### Jan Soubousta - How we built a Python SDK for our (open) APIs ([video](https://www.youtube.com/watch?v=v3997cSwNGw))
 
 During this session, we will present how we built and open-sourced a Python SDK for our analytics APIs covered by OpenAPI specification. We will share best practices applied on Python projects (data classes, services, tests, documentation, Github actions, pip, ...). In the end, we will conduct a live demo - Github APIs -> PostgreSQL -> dbt -> GoodData -> Deepnote(GoodData Python SDK).
 
@@ -170,7 +170,7 @@ During this session, we will present how we built and open-sourced a Python SDK 
 
 During the last eight years of deep neural networks rewriting the landscape of machine translation (MT), we got to the stage where MT is clearly usable and progress hard to measure for language pairs covered well with data. Let us now apply similar technologies to the task of automatic creation of minutes from project meetings ("minuting"). With a similar devotion, we should make automatic minutes usable in a couple of years. And perhaps machine understanding will be necessary at last; to my surprise, it was not needed for MT.
 
-#### Martin Fleischmann - A Gentle Introduction to Spatial Data in the Pandas Ecosystem
+#### Martin Fleischmann - A Gentle Introduction to Spatial Data in the Pandas Ecosystem ([video](https://www.youtube.com/watch?v=Pm9lis-wCZs))
 
 "Everything is related to everything else, but near things are more related than distant things”
 That is the first law of geography. But how do we apply it to data science? How do we ensure that our analysis has a spatial dimension and that it can be mapped? How can we combine data based on their location? Are there any spatial patterns? These are the questions you will be able to answer after a gentle introduction to spatial data science in the pandas ecosystem. We will start with a brief explanation of the key concepts like geometries and projections to introduce GeoPandas, a package that brings geo to pandas. Then we’ll check how the ecosystem supporting GeoPandas looks like and what it offers, followed by a short excursion to the realm of spatial analytics using the packages from the PySAL (Python Spatial Analysis Library) project. We will be able to expand traditional exploratory data analysis with spatial using the esda package, interpolate data between different spatial units using the tobler package or analyse the structure of cities using momepy. Finally, when the data begin to look too large to work with, we switch to distributed dask-geopandas and wrap up our journey with spatial operations powered by Dask somewhere in the cloud.
