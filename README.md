@@ -92,7 +92,7 @@ Discover the essence of Pandas Enhancement Proposals aka PDEPs and their impact 
 
 ### [PyData Prague #18 - A Vector from Lab to Hub](https://www.meetup.com/pydata-prague/events/298734567/) (29.2.2024 at Pure Storage)
 
-#### Milan Ondrašovič - Unlocking Efficiency: The Power of Vectorization
+#### Milan Ondrašovič - Unlocking Efficiency: The Power of Vectorization ([video](https://www.youtube.com/watch?v=YaJOxJ9k0LA) [slides](https://github.com/mondrasovic/vectorization_presentation/blob/main/ThePowerOfVectorization_PyData.pdf))
 
 In this talk, we will break down a crucial yet often overlooked skill for ML engineers and data scientists: code vectorization, the cornerstone of modern numerical libraries. The aim is to show when and how to apply this technique to significantly boost performance. We will provide practical insight on implementation, discuss pros and cons, and explore the impact on the codebase. Using primarily Python and NumPy, our code examples will demonstrate the portability of vectorized solutions across libraries and languages.
 
