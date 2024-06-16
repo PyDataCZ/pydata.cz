@@ -49,6 +49,8 @@ DuckDB is a powerful tool for data analysts and data engineers. It is an embedde
 
 A joint event of PyData Prague and [Open-Source Science (OSSci)](https://opensource.science/).
 
+Recap available at [Open Source Science Medium](https://medium.com/open-source-science-initiative/pydata-prague-recap-9051a27f277c).
+
 ##### Tim Bonnemann - Accelerating Science with Open Source – An Introduction to Open-Source Science (OSSci) ([slides](https://docs.google.com/presentation/d/1vExaIha3EghKTuNzYitThRSHyJyo1n_8Wv61wc97A4w/edit?usp=sharing))
 
 Open-Source Science (OSSci) is a NumFOCUS initiative – launched in July 2022 in partnership with IBM – that aims to accelerate scientific research by improving the ways open source software in science gets done (built, used, funded, sustained, recognized, etc.). OSSci connects scientists, OSS developers and other stakeholders to share best practices, identify common pain points, and explore solutions together. The five OSSci interest groups to date cover domain-specific topics (chemistry/materials, life sciences/healthcare, climate/sustainability) as well as cross-domain topics (reproducibility, map of science), with more to be rolled out in 2024. This talk will provide a brief overview of OSSci’s activities to date, our plans for 2024, and how you can get involved.
