@@ -33,6 +33,14 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+*There are no fixed dates yet but we will have at least one or two meetups before the end of 2024.*
+
+## Past Meetups
+
+### [PyData Prague #22 - Summer Special Edition](https://www.meetup.com/pydata-prague/events/302432072) (28.8.2024 at Golemio)
+
+(no talks, just discussion and refreshments)
+
 ### [PyData Prague #21 - Duck Hyping](https://www.meetup.com/pydata-prague/events/301435048/) (17.6.2024 at Keboola)
 
 #### František Kaláb - How Data Improves Your Life in Prague
@@ -42,8 +50,6 @@ At Prague Data Platform, we collect, process, and evaluate data from the city to
 #### David Ešner - DuckDB Intro with Case Study from Keboola
 
 DuckDB is a powerful tool for data analysts and data engineers. It is an embedded, in-process database that provides connectors and capabilities comparable to complex query engines like Spark or Presto, yet it's as simple to set up as SQLite. In this talk, I will provide a brief introduction to the technology and how we leverage it as a simple magic wand for easy, in-process data crunching within the Keboola container architecture. I will walk you through our rather unusual use cases
-
-## Past Meetups
 
 ### [Open Source Science @ PyData Prague #20](https://www.meetup.com/pydata-prague/events/300721007/) (16.5.2024 at FNSPE CTU)
 
