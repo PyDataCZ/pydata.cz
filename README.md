@@ -104,7 +104,7 @@ Discover the essence of Pandas Enhancement Proposals aka PDEPs and their impact 
 
 In this talk, we will break down a crucial yet often overlooked skill for ML engineers and data scientists: code vectorization, the cornerstone of modern numerical libraries. The aim is to show when and how to apply this technique to significantly boost performance. We will provide practical insight on implementation, discuss pros and cons, and explore the impact on the codebase. Using primarily Python and NumPy, our code examples will demonstrate the portability of vectorized solutions across libraries and languages.
 
-#### Jakub Hettler - Jupyter(Hub/Lab): Journey from On-prem to AWS
+#### Jakub Hettler - Jupyter(Hub/Lab): Journey from On-prem to AWS ([video](https://www.youtube.com/watch?v=lVrd5a8AOi4))
 
 Let’s have a look at how we @AlmaCareer Czechia Business Intelligence team moved JupyterHub and JupyterLab from on-premise infrastructure to AWS. Why we used Amazon Sagemaker Studio for just 3 weeks and why we are happy with Jupyter running on top of Coder (coder.com) in AWS at the end. Infrastructure point of view with deeper dive into pros/cons of on-prem JupyterHub/Lab on Hashicorp Nomad, Amazon Sagemaker Studio and Coder. All this considering the requirements of 20 working users in JupyterLab.
 
