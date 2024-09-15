@@ -33,6 +33,14 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+*There are no fixed dates yet but we will have at least one or two meetups before the end of 2024.*
+
+## Past Meetups
+
+### [PyData Prague #22 - Summer Special Edition](https://www.meetup.com/pydata-prague/events/302432072) (28.8.2024 at Golemio)
+
+(no talks, just discussion and refreshments)
+
 ### [PyData Prague #21 - Duck Hyping](https://www.meetup.com/pydata-prague/events/301435048/) (17.6.2024 at Keboola)
 
 #### František Kaláb - How Data Improves Your Life in Prague
@@ -42,8 +50,6 @@ At Prague Data Platform, we collect, process, and evaluate data from the city to
 #### David Ešner - DuckDB Intro with Case Study from Keboola
 
 DuckDB is a powerful tool for data analysts and data engineers. It is an embedded, in-process database that provides connectors and capabilities comparable to complex query engines like Spark or Presto, yet it's as simple to set up as SQLite. In this talk, I will provide a brief introduction to the technology and how we leverage it as a simple magic wand for easy, in-process data crunching within the Keboola container architecture. I will walk you through our rather unusual use cases
-
-## Past Meetups
 
 ### [Open Source Science @ PyData Prague #20](https://www.meetup.com/pydata-prague/events/300721007/) (16.5.2024 at FNSPE CTU)
 
@@ -98,7 +104,7 @@ Discover the essence of Pandas Enhancement Proposals aka PDEPs and their impact 
 
 In this talk, we will break down a crucial yet often overlooked skill for ML engineers and data scientists: code vectorization, the cornerstone of modern numerical libraries. The aim is to show when and how to apply this technique to significantly boost performance. We will provide practical insight on implementation, discuss pros and cons, and explore the impact on the codebase. Using primarily Python and NumPy, our code examples will demonstrate the portability of vectorized solutions across libraries and languages.
 
-#### Jakub Hettler - Jupyter(Hub/Lab): Journey from On-prem to AWS
+#### Jakub Hettler - Jupyter(Hub/Lab): Journey from On-prem to AWS ([video](https://www.youtube.com/watch?v=lVrd5a8AOi4))
 
 Let’s have a look at how we @AlmaCareer Czechia Business Intelligence team moved JupyterHub and JupyterLab from on-premise infrastructure to AWS. Why we used Amazon Sagemaker Studio for just 3 weeks and why we are happy with Jupyter running on top of Coder (coder.com) in AWS at the end. Infrastructure point of view with deeper dive into pros/cons of on-prem JupyterHub/Lab on Hashicorp Nomad, Amazon Sagemaker Studio and Coder. All this considering the requirements of 20 working users in JupyterLab.
 
