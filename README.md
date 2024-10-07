@@ -43,7 +43,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ### [PyData Prague #21 - Duck Hyping](https://www.meetup.com/pydata-prague/events/301435048/) (17.6.2024 at Keboola)
 
-#### František Kaláb - How Data Improves Your Life in Prague ([video](https://www.youtube.com/watch?v=VgwgF8jD1Ew) [slides](talks/frantisek_kalab-2024_06_17.pdf))
+#### František Kaláb - How Data Improves Your Life in Prague ([video](https://www.youtube.com/watch?v=VgwgF8jD1Ew), [slides](talks/frantisek_kalab-2024_06_17.pdf))
 
 At Prague Data Platform, we collect, process, and evaluate data from the city to enhance decision-making and improve the lives of its citizens. From waste management to public transport, this talk will provide an overview of the city's data landscape and showcase specific areas where data is leveraged to the city's advantage. I will also discuss how we utilize open-source technologies and adhere to open standards to make our work transparent and accessible to clients and citizens.
 
