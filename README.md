@@ -43,7 +43,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ### [PyData Prague #21 - Duck Hyping](https://www.meetup.com/pydata-prague/events/301435048/) (17.6.2024 at Keboola)
 
-#### František Kaláb - How Data Improves Your Life in Prague
+#### František Kaláb - How Data Improves Your Life in Prague ([video](https://www.youtube.com/watch?v=VgwgF8jD1Ew), [slides](talks/frantisek_kalab-2024_06_17.pdf))
 
 At Prague Data Platform, we collect, process, and evaluate data from the city to enhance decision-making and improve the lives of its citizens. From waste management to public transport, this talk will provide an overview of the city's data landscape and showcase specific areas where data is leveraged to the city's advantage. I will also discuss how we utilize open-source technologies and adhere to open standards to make our work transparent and accessible to clients and citizens.
 
@@ -94,7 +94,7 @@ Academic research often depends on open-source software. Still, researchers do n
 
 What is it like to migrate data from on-prem systems to the cloud in one of the largest banks in the Czech Republic? How to check that nothing has changed along the way? Join us to discover our Python-based solution! Not only will we go through the code, but we'll also focus on the pitfalls, challenges, and hardships we have encountered along the way. We will thoroughly explain how we verify the migrated data, which is exported as CSV from the source system and stored as Parquet in the AWS Data Lake. Expect a candid and emotional presentation with thoughtfully named commits.
 
-#### Hadi Abdi Khojasteh - Pandas Roadmap and Beyond
+#### Hadi Abdi Khojasteh - Pandas Roadmap and Beyond ([video](https://www.youtube.com/watch?v=5I3ui2RiGxk))
 
 Discover the essence of Pandas Enhancement Proposals aka PDEPs and their impact on the landscape of data analysis with Pandas. Join us for an overview of proposed changes, aimed at addressing corner cases and inconsistencies that have emerged over years of development, presented by one of Pandas' core contributors. From banning (up)casting in "setitem-like" operations to reevaluating inplace option in methods, delve into the behavioural shifts shaping the Pandas roadmap. Gain insight into the evolving copy and view semantics of operations, offering a glimpse into the anticipated Pandas 3.0 experience by overviewing changes in the new version.
 
@@ -156,7 +156,7 @@ This talk is suitable for data analysts, data scientists and LLMs enthusiast who
 
 ### [PyData Prague #14 - Voice upon a Time](https://www.meetup.com/pydata-prague/events/293042146/) (3.5.2023 at Heureka)
 
-#### Karel Boháček -  Sign language recognition: Enabling communication for the hearing-impaired through machine learning
+#### Karel Boháček -  Sign language recognition: Enabling communication for the hearing-impaired through machine learning ([video](https://www.youtube.com/watch?v=C8x04e0KNgs))
 
 In this talk, our project on sign language recognition will be presented. The aim of the project is to create a prototype app that can facilitate communication between hearing-impaired individuals and those who do not know sign language. The challenges faced by hearing-impaired individuals in communicating with the general population will be discussed, and how technology can help bridge this gap will be explained.
 
