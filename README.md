@@ -57,15 +57,15 @@ A joint event of PyData Prague and [Open-Source Science (OSSci)](https://opensou
 
 Recap available at [Open Source Science Medium](https://medium.com/open-source-science-initiative/pydata-prague-recap-9051a27f277c).
 
-##### Tim Bonnemann - Accelerating Science with Open Source – An Introduction to Open-Source Science (OSSci) ([slides](https://docs.google.com/presentation/d/1vExaIha3EghKTuNzYitThRSHyJyo1n_8Wv61wc97A4w/edit?usp=sharing))
+#### Tim Bonnemann - Accelerating Science with Open Source – An Introduction to Open-Source Science (OSSci) ([slides](https://docs.google.com/presentation/d/1vExaIha3EghKTuNzYitThRSHyJyo1n_8Wv61wc97A4w/edit?usp=sharing))
 
 Open-Source Science (OSSci) is a NumFOCUS initiative – launched in July 2022 in partnership with IBM – that aims to accelerate scientific research by improving the ways open source software in science gets done (built, used, funded, sustained, recognized, etc.). OSSci connects scientists, OSS developers and other stakeholders to share best practices, identify common pain points, and explore solutions together. The five OSSci interest groups to date cover domain-specific topics (chemistry/materials, life sciences/healthcare, climate/sustainability) as well as cross-domain topics (reproducibility, map of science), with more to be rolled out in 2024. This talk will provide a brief overview of OSSci’s activities to date, our plans for 2024, and how you can get involved.
 
-##### Evelina Gabašová - Open source and academia: Research software engineering perspective ([slides](https://evelinag-my.sharepoint.com/:p:/g/personal/evelina_evelinag_onmicrosoft_com/EUHCeHOfv1VLpHbLlpQ0NLsBdLmA8XQpCMqnWtdhPkZlUw?e=haflN2))
+#### Evelina Gabašová - Open source and academia: Research software engineering perspective ([slides](https://evelinag-my.sharepoint.com/:p:/g/personal/evelina_evelinag_onmicrosoft_com/EUHCeHOfv1VLpHbLlpQ0NLsBdLmA8XQpCMqnWtdhPkZlUw?e=haflN2))
 
 In the British academic system, a new movement was established in 2012 called "research software engineering". The goal has been to recognise and promote the vital role of software in research and establish academic career paths for people who develop it. As a Vice-President of the Society of Research Software Engineering (and a research software engineer herself), Evelina will talk about some of the lessons learned over the past decade and what have been the challenges in recognising software and open source contributions as fully-fledged academic outputs.
 
-##### Derek Homeier - Astropy – a community effort to develop a common core package for Astronomy in Python ([slides](https://drive.google.com/file/d/1ihnrbs0n5G72gT4reLZ0mG80_DitmrQg/view?usp=sharing))
+#### Derek Homeier - Astropy – a community effort to develop a common core package for Astronomy in Python ([slides](https://drive.google.com/file/d/1ihnrbs0n5G72gT4reLZ0mG80_DitmrQg/view?usp=sharing))
 
 Since the early 2010s Python has been recognised as a powerful option offering an
 alternative to then-dominant proprietary platforms like IDL or Matlab, or compiled
@@ -82,7 +82,7 @@ A decade later this has made Python+Astropy now the dominant data-processing pla
 in astrophysical research. But with this growth the project has also evolved from a relatively
 informal team effort to a more formally organised and structured system.
 
-##### Martin Fleischmann - Open by Default: Developing reproducible, computational research ([slides](https://martinfleischmann.net/talks/2024_OSSci_meetup/))
+#### Martin Fleischmann - Open by Default: Developing reproducible, computational research ([slides](https://martinfleischmann.net/talks/2024_OSSci_meetup/))
 
 While academic research heavily depends on open-source software, the relationship is often one-way. We believe that designing research in close relation to open-source development is beneficial for all parties and present one way of doing that, by turning a research project into a component of the open-source ecosystem.
 
@@ -90,7 +90,7 @@ Academic research often depends on open-source software. Still, researchers do n
 
 ### [PyData Prague #19 - Pandas in Heaven](https://www.meetup.com/pydata-prague/events/300451488/) (23.4.2024 at ČSOB)
 
-#### Jakub Kramata - Big Bank Data in Migration: From In-House CSV to Parquet in Amazon S3
+#### Jakub Kramata - Big Bank Data in Migration: From In-House CSV to Parquet in Amazon S3 ([video](https://www.youtube.com/watch?v=g6nMnHbq1Ys))
 
 What is it like to migrate data from on-prem systems to the cloud in one of the largest banks in the Czech Republic? How to check that nothing has changed along the way? Join us to discover our Python-based solution! Not only will we go through the code, but we'll also focus on the pitfalls, challenges, and hardships we have encountered along the way. We will thoroughly explain how we verify the migrated data, which is exported as CSV from the source system and stored as Parquet in the AWS Data Lake. Expect a candid and emotional presentation with thoughtfully named commits.
 
