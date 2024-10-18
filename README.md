@@ -33,7 +33,19 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-*There are no fixed dates yet but we will have at least one or two meetups before the end of 2024.*
+### [PyData Prague #23 - Low Agent Intelligence Threat](https://www.meetup.com/pydata-prague/events/304008256/) (7.11.2024 at Rapid7)
+
+#### Šimon Podhajský - Multi-Agent Frameworks: Teaming Up Specialized AI Models to Tackle Complex Tasks
+
+What if we could assign different aspects of a problem to AI models that specialize in those areas, much like delegating tasks to skilled team members? Multi-agent systems (MAS) are enabling this kind of collaboration among computer programs. In this session, we'll introduce you to LangGraph, Autogen, and Langroid—three leading frameworks that organize AI models into teams of specialists. We'll explore how each tool structures these teams, manages communication, and measures performance, helping you choose the right solution for various projects.
+
+#### Martin Votruba - Low-Tech ETL
+
+Is it possible to use git as a database? Yes, we do that. It's both awesome and terrible. What other weird choices have we made on our way? Come and listen to our story of discovering the most accessible, low-tech approach to building ETL pipelines in a large organization. Along the way, we've made unconventional choices—some brilliant, others with unexpected trade-offs but all in the name of keeping things intuitive and manageable for our diverse teams. Join us to learn about our journey, the lessons we've learned, and the tools we've found to be surprisingly effective.
+
+#### Dominique Alexander Piatti - Peek into Threat Intelligence
+
+Have you ever wondered what secrets the internet hides? In just 15 minutes, I'll take you on a journey through the world of data scraping—from the Darknet to data leaks and beyond. Discover how our specialised team of analysts gathers critical intelligence on hacks and ransomware activities. We've employed unconventional methods to extract valuable insights using Python, making bold choices that have led to both brilliant outcomes and unexpected trade-offs. How do we navigate complex sites with CAPTCHA solvers and ensure everything remains intuitive for our analysts? Join me to uncover the challenges and innovations behind our data scraping journey, and learn how we turn chaos into actionable intelligence.
 
 ## Past Meetups
 
