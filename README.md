@@ -7,8 +7,8 @@ Contact:
 Social networks:
 
 - [Meetup](https://www.meetup.com/PyData-Prague/) - Find and register to our meetups here!
-- [Twitter](https://www.twitter.com/PyDataPrague/) - We post here...
-- [LinkedIn](https://www.linkedin.com/company/pydata-prague/) - ...and here...
+- [LinkedIn](https://www.linkedin.com/company/pydata-prague/) - We are here...
+- [Bluesky](https://bsky.app/profile/pydataprague.bsky.social) - ... and here...
 - [Facebook](https://www.facebook.com/PyDataPrague) - ...and here!
 
 PyData Prague is a community of data scientists, engineers, analysts, and various other developers in the area of scientific computing and data analysis. The term [PyData](https://pydata.org/) refers to an educational program of [NumFOCUS](https://numfocus.org/), an american non-profit helping open source software in terms of governance, financial support, and operations.
@@ -33,6 +33,26 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+### [PyData Prague #24 - The Large, the Weed and the Compliant](https://www.meetup.com/pydata-prague/events/304684880) (3.12.2024 at Creative Dock)
+
+#### Adam Hruška - Processing problematic plants with python
+
+Weed detection techniques are essential in modern precision agriculture, where accurately detecting and identifying species can lead to effective crop yields and sustainable resource use. Python has emerged as a powerful tool in this domain, providing versatile libraries and frameworks for data gathering, processing, and model training. By leveraging Python's capabilities, we can efficiently manage large-scale datasets, preprocess images, and potentially automate the annotation process, streamlining the development of machine learning models for weed detection. The integration of computer vision and machine learning tools, including OpenCV, scikit-image, and TensorFlow, serves as a basis for creation of models capable of distinguishing between crops and weed species with high precision. As a result, Python-driven weed detection models offer a promising path toward improved crop health, resource conservation, and sustainable farming practices.
+
+#### Soheyla Mirshahi, Jan Kryštůfek - Beyond Accuracy: Engineering EU-Compliant LLM Systems
+
+Building production-ready LLM systems is challenging, but designing solutions that comply with the EU AI Act introduces layers of complexity far beyond prompt engineering and API integration. This talk takes you through the journey of creating a compliant LLM system for one of the most demanding domains: AI-driven recruitment.
+We share our journey from a naive PoC to a production ready solution under the AI Act. Through this case study, we will explore:
+
+- Compliance-first approach: Designing LLM systems to meet security, legal and ethical standards from the ground up
+- Taming LLM in Python: Using prompts, function calls and scoring model to get results in structured and auditable form
+- Evaluation: Testing on synthetic data, human evaluation and user feedback
+- Numbers: Statictics from production and percieved benefits
+
+Attendees will leave equipped with practical tools, architectural patterns for building LLM systems that meet both engineering and regulatory challenges, supported by real-world example.
+
+## Past Meetups
+
 ### [PyData Prague #23 - Low Agent Intelligence Threat](https://www.meetup.com/pydata-prague/events/304008256/) (7.11.2024 at Rapid7)
 
 #### Šimon Podhajský - Multi-Agent Frameworks: Teaming Up Specialized AI Models to Tackle Complex Tasks
@@ -46,8 +66,6 @@ Is it possible to use git as a database? Yes, we do that. It's both awesome and 
 #### Dominique Alexander Piatti - Peek into Threat Intelligence
 
 Have you ever wondered what secrets the internet hides? In just 15 minutes, I'll take you on a journey through the world of data scraping—from the Darknet to data leaks and beyond. Discover how our specialised team of analysts gathers critical intelligence on hacks and ransomware activities. We've employed unconventional methods to extract valuable insights using Python, making bold choices that have led to both brilliant outcomes and unexpected trade-offs. How do we navigate complex sites with CAPTCHA solvers and ensure everything remains intuitive for our analysts? Join me to uncover the challenges and innovations behind our data scraping journey, and learn how we turn chaos into actionable intelligence.
-
-## Past Meetups
 
 ### [PyData Prague #22 - Summer Special Edition](https://www.meetup.com/pydata-prague/events/302432072) (28.8.2024 at Golemio)
 
