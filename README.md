@@ -33,6 +33,10 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+The next meetup will take place in February 2025. Stay tuned :-)
+
+## Past Meetups
+
 ### [PyData Prague #24 - The Large, the Weed and the Compliant](https://www.meetup.com/pydata-prague/events/304684880) (3.12.2024 at Creative Dock)
 
 #### Adam Hruška - Processing problematic plants with python
@@ -51,13 +55,11 @@ We share our journey from a naive PoC to a production ready solution under the A
 
 Attendees will leave equipped with practical tools, architectural patterns for building LLM systems that meet both engineering and regulatory challenges, supported by real-world example.
 
-## Past Meetups
-
 ### [PyData Prague #23 - Low Agent Intelligence Threat](https://www.meetup.com/pydata-prague/events/304008256/) (7.11.2024 at Rapid7)
 
-#### Šimon Podhajský - Multi-Agent Frameworks: Teaming Up Specialized AI Models to Tackle Complex Tasks
+#### Šimon Podhajský - Multi-Agent Frameworks: Teaming Up Specialized AI Models to Tackle Complex Tasks ([video](https://www.youtube.com/watch?v=TrBpjYYJNUc))
 
-What if we could assign different aspects of a problem to AI models that specialize in those areas, much like delegating tasks to skilled team members? Multi-agent systems (MAS) are enabling this kind of collaboration among computer programs. In this session, we'll introduce you to LangGraph, Autogen, and Langroid—three leading frameworks that organize AI models into teams of specialists. We'll explore how each tool structures these teams, manages communication, and measures performance, helping you choose the right solution for various projects.
+What if we could assign different aspects of a problem to AI models that specialize in those areas, much like delegating tasks to skilled team members? Multi-agent systems (MAS) are enabling this kind of collaboration among computer programs. In this session, we’ll introduce you to LangGraph and Autogen—two leading frameworks that organize AI models into teams of specialists. We’ll explore how each tool structures these teams, manages communication, and measures performance, helping you choose the right solution for various projects.
 
 #### Martin Votruba - Low-Tech ETL
 
