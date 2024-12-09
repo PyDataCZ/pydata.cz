@@ -33,7 +33,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-The next meetup will take place in February.
+The next meetup will take place in February 2025. Stay tuned :-)
 
 ## Past Meetups
 
