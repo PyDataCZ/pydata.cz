@@ -33,7 +33,15 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-The next meetup will take place in February 2025. Stay tuned :-)
+### [PyData Prague #25 - Moon Time Anomaly](https://www.meetup.com/pydata-prague/events/305533543) (4.2.2025 at similarweb)
+
+#### Lucie Blechová - Demystifying Anomaly Detection: A Practical Guide for Time Series Data
+
+In this talk, we’ll dive into the essentials of unsupervised anomaly detection for multivariate time series data. As organizations rely increasingly on proactive monitoring, anomaly detection has become vital across domains—from fraud detection to predictive maintenance. This session will cover key challenges in anomaly detection, including data drift, dimensionality, and lack of labeled data. We'll explore foundational techniques and algorithms, from traditional statistical methods to state-of-the-art machine learning models, offering guidance on selecting tools, setting evaluation metrics, and applying these concepts in real-world scenarios.
+
+#### Juan Luis Cano Rodríguez - To the Moon and back: Lessons learned from archiving my dream open source project
+
+I developed poliastro, a Python library for interactive Astrodynamics, for almost a decade. Seemingly everything was going well, the project had traction, GitHub stars were going up, I got a regular stream of grant money... but at some point I decided to step down as a maintainer. What happened?
 
 ## Past Meetups
 
