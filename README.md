@@ -33,6 +33,10 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+There is no upcoming meetup confirmed yet.
+
+## Past Meetups
+
 ### [PyData Prague #25 - Moon Time Anomaly](https://www.meetup.com/pydata-prague/events/305533543) (4.2.2025 at similarweb)
 
 #### Lucie Blechová - Demystifying Anomaly Detection: A Practical Guide for Time Series Data
@@ -42,8 +46,6 @@ In this talk, we’ll dive into the essentials of unsupervised anomaly detection
 #### Juan Luis Cano Rodríguez - To the Moon and back: Lessons learned from archiving my dream open source project
 
 I developed poliastro, a Python library for interactive Astrodynamics, for almost a decade. Seemingly everything was going well, the project had traction, GitHub stars were going up, I got a regular stream of grant money... but at some point I decided to step down as a maintainer. What happened?
-
-## Past Meetups
 
 ### [PyData Prague #24 - The Large, the Weed and the Compliant](https://www.meetup.com/pydata-prague/events/304684880) (3.12.2024 at Creative Dock)
 
@@ -69,11 +71,11 @@ Attendees will leave equipped with practical tools, architectural patterns for b
 
 What if we could assign different aspects of a problem to AI models that specialize in those areas, much like delegating tasks to skilled team members? Multi-agent systems (MAS) are enabling this kind of collaboration among computer programs. In this session, we’ll introduce you to LangGraph and Autogen—two leading frameworks that organize AI models into teams of specialists. We’ll explore how each tool structures these teams, manages communication, and measures performance, helping you choose the right solution for various projects.
 
-#### Martin Votruba - Low-Tech ETL
+#### Martin Votruba - Low-Tech ETL ([video](https://www.youtube.com/watch?v=3UnWU7YoHhk))
 
 Is it possible to use git as a database? Yes, we do that. It's both awesome and terrible. What other weird choices have we made on our way? Come and listen to our story of discovering the most accessible, low-tech approach to building ETL pipelines in a large organization. Along the way, we've made unconventional choices—some brilliant, others with unexpected trade-offs but all in the name of keeping things intuitive and manageable for our diverse teams. Join us to learn about our journey, the lessons we've learned, and the tools we've found to be surprisingly effective.
 
-#### Dominique Alexander Piatti - Peek into Threat Intelligence
+#### Dominique Alexander Piatti - Peek into Threat Intelligence ([video](https://www.youtube.com/watch?v=btkUmY0wSu4))
 
 Have you ever wondered what secrets the internet hides? In just 15 minutes, I'll take you on a journey through the world of data scraping—from the Darknet to data leaks and beyond. Discover how our specialised team of analysts gathers critical intelligence on hacks and ransomware activities. We've employed unconventional methods to extract valuable insights using Python, making bold choices that have led to both brilliant outcomes and unexpected trade-offs. How do we navigate complex sites with CAPTCHA solvers and ensure everything remains intuitive for our analysts? Join me to uncover the challenges and innovations behind our data scraping journey, and learn how we turn chaos into actionable intelligence.
 
