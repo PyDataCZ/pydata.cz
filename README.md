@@ -33,7 +33,23 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-There is no upcoming meetup confirmed yet.
+### [PyData Prague #26 - Table Diffusion](https://www.meetup.com/pydata-prague/events/306474698) (20.3.2026 at MSD)
+
+#### Zdeněk Morávek - Defect detection in X-ray images of solid tablets. Data augmentation with Stable diffusion
+
+Data augmentation is a standard method applied to improve the training of supervised machine learning systems. It performs transformation of existing data such as rotations, clipping, scaling etc. The method proved useful, still there are some treats of the original data that affect the efficiency and scalability of the augmentation.
+
+Generative AI allows to create synthetic data from original dataset. The synthesis is virtually limitless and the synthetic data does not share any treats with the original data. This makes it a powerful extension for data augmentation, especially if the original dataset is limited. There is still a question whether the synthetic data represents well the original dataset.
+
+We applied generative algorithm of stable diffusion to generate synthetic cracks in solid state tablets. The dataset is limited in size and the cracks are a low contrast objects with variable properties. We developed a Mask R-CNN classifier and trained it with available dataset as a baseline model.
+
+We selected suitable images for training the stable diffusion generator and created a synthetic dataset. We investigated statistics of pixel properties of the real and synthetic datasets showing that the main features are conserved though details differ. We used the synthetic data to train an alternative model and compare its performance to the baseline. We demonstrated that in terms of accuracy, we can achieve improvement, but on the other hand we observed higher false positive ratio and also reduced applicability to qualitatively different datasets. We discuss reasons behind these observations and how to improve on them.
+
+#### Ivona Krchová - AI-Generated Tabular Synthetic Data: What It Is, How It’s Created, and Its Applications
+
+Synthetic data has become an important tool in data science, offering a way to generate realistic data while preserving privacy. In this talk, we’ll explore AI-generated tabular synthetic data—what it is, how it’s created, and how it can be used effectively in various contexts.
+
+I’ll begin with a short overview of synthetic data, explaining its key concept and how it differs from traditional data anonymization techniques. Next, I’ll briefly describe the algorithm developed by MOSTLY AI for generating tabular synthetic data. Finally, we’ll explore key use-cases, we’ll discuss how synthetic data can be used to enhance datasets, address missing values or mitigate bias in model outcomes.
 
 ## Past Meetups
 
