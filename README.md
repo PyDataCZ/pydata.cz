@@ -33,7 +33,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-### [PyData Prague #26 - Table Diffusion](https://www.meetup.com/pydata-prague/events/306474698) (20.3.2026 at MSD)
+### [PyData Prague #26 - Table Diffusion](https://www.meetup.com/pydata-prague/events/306474698) (20.3.2025 at MSD)
 
 #### Zdeněk Morávek - Defect detection in X-ray images of solid tablets. Data augmentation with Stable diffusion
 
