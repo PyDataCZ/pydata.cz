@@ -55,11 +55,11 @@ I’ll begin with a short overview of synthetic data, explaining its key concept
 
 ### [PyData Prague #25 - Moon Time Anomaly](https://www.meetup.com/pydata-prague/events/305533543) (4.2.2025 at similarweb)
 
-#### Lucie Blechová - Demystifying Anomaly Detection: A Practical Guide for Time Series Data
+#### Lucie Blechová - Demystifying Anomaly Detection: A Practical Guide for Time Series Data ([video](https://www.youtube.com/watch?v=8Fp1_C5i5lc))
 
 In this talk, we’ll dive into the essentials of unsupervised anomaly detection for multivariate time series data. As organizations rely increasingly on proactive monitoring, anomaly detection has become vital across domains—from fraud detection to predictive maintenance. This session will cover key challenges in anomaly detection, including data drift, dimensionality, and lack of labeled data. We'll explore foundational techniques and algorithms, from traditional statistical methods to state-of-the-art machine learning models, offering guidance on selecting tools, setting evaluation metrics, and applying these concepts in real-world scenarios.
 
-#### Juan Luis Cano Rodríguez - To the Moon and back: Lessons learned from archiving my dream open source project
+#### Juan Luis Cano Rodríguez - To the Moon and back: Lessons learned from archiving my dream open source project ([video](https://www.youtube.com/watch?v=APHBsfXj3Mg))
 
 I developed poliastro, a Python library for interactive Astrodynamics, for almost a decade. Seemingly everything was going well, the project had traction, GitHub stars were going up, I got a regular stream of grant money... but at some point I decided to step down as a maintainer. What happened?
 
