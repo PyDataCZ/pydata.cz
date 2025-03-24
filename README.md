@@ -33,6 +33,8 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+## Past Meetups
+
 ### [PyData Prague #26 - Table Diffusion](https://www.meetup.com/pydata-prague/events/306474698) (20.3.2025 at MSD)
 
 #### Zdeněk Morávek - Defect detection in X-ray images of solid tablets. Data augmentation with Stable diffusion
@@ -51,7 +53,6 @@ Synthetic data has become an important tool in data science, offering a way to g
 
 I’ll begin with a short overview of synthetic data, explaining its key concept and how it differs from traditional data anonymization techniques. Next, I’ll briefly describe the algorithm developed by MOSTLY AI for generating tabular synthetic data. Finally, we’ll explore key use-cases, we’ll discuss how synthetic data can be used to enhance datasets, address missing values or mitigate bias in model outcomes.
 
-## Past Meetups
 
 ### [PyData Prague #25 - Moon Time Anomaly](https://www.meetup.com/pydata-prague/events/305533543) (4.2.2025 at similarweb)
 
@@ -65,11 +66,11 @@ I developed poliastro, a Python library for interactive Astrodynamics, for almos
 
 ### [PyData Prague #24 - The Large, the Weed and the Compliant](https://www.meetup.com/pydata-prague/events/304684880) (3.12.2024 at Creative Dock)
 
-#### Adam Hruška - Processing problematic plants with python
+#### Adam Hruška - Processing problematic plants with python ([video](https://www.youtube.com/watch?v=XWXmQPkmQlc))
 
 Weed detection techniques are essential in modern precision agriculture, where accurately detecting and identifying species can lead to effective crop yields and sustainable resource use. Python has emerged as a powerful tool in this domain, providing versatile libraries and frameworks for data gathering, processing, and model training. By leveraging Python's capabilities, we can efficiently manage large-scale datasets, preprocess images, and potentially automate the annotation process, streamlining the development of machine learning models for weed detection. The integration of computer vision and machine learning tools, including OpenCV, scikit-image, and TensorFlow, serves as a basis for creation of models capable of distinguishing between crops and weed species with high precision. As a result, Python-driven weed detection models offer a promising path toward improved crop health, resource conservation, and sustainable farming practices.
 
-#### Soheyla Mirshahi, Jan Kryštůfek - Beyond Accuracy: Engineering EU-Compliant LLM Systems
+#### Soheyla Mirshahi, Jan Kryštůfek - Beyond Accuracy: Engineering EU-Compliant LLM Systems ([video](https://www.youtube.com/watch?v=W5gkCf7__Gc))
 
 Building production-ready LLM systems is challenging, but designing solutions that comply with the EU AI Act introduces layers of complexity far beyond prompt engineering and API integration. This talk takes you through the journey of creating a compliant LLM system for one of the most demanding domains: AI-driven recruitment.
 We share our journey from a naive PoC to a production ready solution under the AI Act. Through this case study, we will explore:
