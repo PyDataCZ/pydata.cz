@@ -33,7 +33,7 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-### [PyData Prague #28 - Terminal Request](https://www.meetup.com/pydata-prague/events/308537580) (9.7.2025 at Prusa)
+### [PyData Prague #28 - Terminal Request](https://www.meetup.com/pydata-prague/events/308537580) (9.7.2025 at Prusa Research)
 
 #### Jan Pipek - Data wrangling in a modern terminal
 
