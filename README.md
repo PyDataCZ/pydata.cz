@@ -33,17 +33,27 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+### [PyData Prague #28 - Terminal Request](https://www.meetup.com/pydata-prague/events/308537580) (9.7.2025 at Prusa)
+
+#### Jan Pipek - Data wrangling in a modern terminal
+
+Once we constrain ourselves to a rectangle of fixed-width characters (preferably white on a black background), we start to see the world a bit differently. If we want to thoroughly investigate it (a.k.a. perform data analysis), we have to be equipped with appropriate tools - be it techniques, libraries or standalone console-based applications. Let's see what the terminal has to offer when reading, manipulating, presenting and even plotting numerical data. We might even finish with a live dashboard your audience will love (or perhaps will not).
+
+#### Jakub Zikl - Right-Sized Scaling: Python APIs at Billions of Requests Without the Complexity
+
+At [Printables.com](https://www.printables.com/), we handle billions of requests every month using a fairly simple, Python-based API stack that scales reliably without unnecessary complexity. In this talk, I’ll share how embracing pragmatism over hype helped us avoid overengineering—proving that microservices and complex architectures aren’t always the answer for every challenge. We’ll explore key design choices, real-world bottlenecks, and practical lessons from our journey to build a maintainable, cost-effective system that delivers at scale. Whether you’re growing a startup or managing a mature platform, you’ll gain actionable insights for scaling Python APIs with confidence.
+
+## Past Meetups
+
 ### [PyData Prague #27 - LLMs Anonymous](https://www.meetup.com/pydata-prague/events/306930229) (10.4.2025 at Miton)
 
 #### Katharine Jarmul - Anonymization: Why is it so hard?
 
 In this talk, we'll look at the problem of anonymizing data and pick apart several common mistakes people make when attempting to remove or modify sensitive data in order to anonymize it. We'll review basic approaches like pseudonymization and redaction, and then look at more advanced approaches like k-anonymization/aggregation and differential privacy. Expect to think a bit like a hacker and a data scientist to see if you can imagine ways to defeat these approaches, and explore how intertwined information theory is to privacy work.
+
 #### Štěpán Procházka - LLMs, the do-it-yourself edition
 
 How Rossum researched, trained and deployed their very own T-LLM to process millions of documents a month. #huggingface #pytorch-lightning #nvidia-triton #pgvector #vllm
-
-
-## Past Meetups
 
 ### [PyData Prague #26 - Table Diffusion](https://www.meetup.com/pydata-prague/events/306474698) (20.3.2025 at MSD)
 
@@ -57,7 +67,7 @@ We applied generative algorithm of stable diffusion to generate synthetic cracks
 
 We selected suitable images for training the stable diffusion generator and created a synthetic dataset. We investigated statistics of pixel properties of the real and synthetic datasets showing that the main features are conserved though details differ. We used the synthetic data to train an alternative model and compare its performance to the baseline. We demonstrated that in terms of accuracy, we can achieve improvement, but on the other hand we observed higher false positive ratio and also reduced applicability to qualitatively different datasets. We discuss reasons behind these observations and how to improve on them.
 
-#### Ivona Krchová - AI-Generated Tabular Synthetic Data: What It Is, How It’s Created, and Its Applications
+#### Ivona Krchová - AI-Generated Tabular Synthetic Data: What It Is, How It’s Created, and Its Applications ([video](https://www.youtube.com/watch?v=cjEjiqh_qXE))
 
 Synthetic data has become an important tool in data science, offering a way to generate realistic data while preserving privacy. In this talk, we’ll explore AI-generated tabular synthetic data—what it is, how it’s created, and how it can be used effectively in various contexts.
 
