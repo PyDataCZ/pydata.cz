@@ -37,13 +37,23 @@ There no meetups scheduled yet, but coming soon!
 
 ## Past Meetups
 
+### [PyData Prague #30 - Pro: To Type Asynchronously](https://www.meetup.com/pydata-prague/events/310988736) (24.9.2025 at Qminers)
+
+#### Daria Bilan - Prototype: A framework that lets analysts focus on ideas, not code
+
+We’ve streamlined the classic loop — generate data, train a model, report results — into a single, user-friendly toolkit that handles the unglamorous parts of experiments: parallelism, caching, storage, and report generation. We’ll focus on the analyst experience and how small UX choices compound into faster iteration.
+
+#### Jakub Urban -  Async to Distributed: Concurrency Patterns for Data Processing
+
+How to make your Python data workflows scale and run faster? We will explore built‑in concurrent.futures and asyncio patterns, and then show if and how to scale using frameworks like Dask or Ray. We will focus on practical recipes for CPU (or GPU) and memory demanding tasks, typical for data processing.
+
 ### [PyData Prague #29 - Summer Edition](https://www.meetup.com/pydata-prague/events/309977031) (28.7.2025 at Elpíčko)
 
 No talks.
 
 ### [PyData Prague #28 - Terminal Request](https://www.meetup.com/pydata-prague/events/308537580) (9.7.2025 at Prusa Research)
 
-#### Jan Pipek - Data wrangling in a modern terminal ([slides](https://github.com/janpipek/terminal-data-talk))
+#### Jan Pipek - Data wrangling in a modern terminal ([slides](https://github.com/janpipek/terminal-data-talk), [video](https://www.youtube.com/watch?v=LxKTcRgs6ZM))
 
 Once we constrain ourselves to a rectangle of fixed-width characters (preferably white on a black background), we start to see the world a bit differently. If we want to thoroughly investigate it (a.k.a. perform data analysis), we have to be equipped with appropriate tools - be it techniques, libraries or standalone console-based applications. Let's see what the terminal has to offer when reading, manipulating, presenting and even plotting numerical data. We might even finish with a live dashboard your audience will love (or perhaps will not).
 
@@ -53,7 +63,7 @@ At [Printables.com](https://www.printables.com/), we handle billions of requests
 
 ### [PyData Prague #27 - LLMs Anonymous](https://www.meetup.com/pydata-prague/events/306930229) (10.4.2025 at Miton)
 
-#### Katharine Jarmul - Anonymization: Why is it so hard?
+#### Katharine Jarmul - Anonymization: Why is it so hard? ([video](https://www.youtube.com/watch?v=EqQdaHSBbY8))
 
 In this talk, we'll look at the problem of anonymizing data and pick apart several common mistakes people make when attempting to remove or modify sensitive data in order to anonymize it. We'll review basic approaches like pseudonymization and redaction, and then look at more advanced approaches like k-anonymization/aggregation and differential privacy. Expect to think a bit like a hacker and a data scientist to see if you can imagine ways to defeat these approaches, and explore how intertwined information theory is to privacy work.
 
