@@ -33,7 +33,26 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-There no meetups scheduled yet, but coming soon!
+### [PyData Prague #31 - PyData Prague meets TechMeetup Ostrava](https://www.meetup.com/pydata-prague/events/311404470/) (15.10.2025 at Impact Hub Ostrava)
+
+#### Darius Kryszczuk - Kill GIL: How Python 3.14 Changes Concurrent Programming
+
+Python 3.14 introduces the long-awaited ability to disable the Global Interpreter Lock (GIL). Although this feature is still experimental, it has the potential to fundamentally reshape concurrent programming in CPython. This talk will explore the implications of GIL removal, focusing on how it enhances parallelism, the performance improvements for multi-threaded applications, and the challenges developers may encounter as they adapt to this new paradigm.
+
+#### Martina Zátopková - How Do We Read the Genome?
+
+The genome is the complete set of genetic information stored in the DNA molecule, which serves as a template for the development and functioning of an organism. In this lecture, we will explore the principles of DNA sequencing from classical methods to modern platforms as well as the bioinformatics approaches used to transform raw data into meaningful insights that can be applied, for example, in medicine or evolutionary biology.
+
+#### Alena Martinková & Emanuel Dopater - How Rankacy Analyzes Millions of Games - Python at the Heart of Esports Data
+
+Python is at the core of our analytics platform, which processes over 8,000 game records daily, each approximately 500 MB in size. Over the past two years, we have accumulated more than 200 TB of data, equivalent to 1,600 years of game time from over 7 million players—and our goal is to increase this user count tenfold.
+
+This talk will cover how we transitioned from Go and C++ parsers connected via PyBind to data frames in Python, how our analyses evolved from Pandas to Polars, and why we migrated our backend from Django to FastAPI. Finally, we will share our real-world experience with performance optimization, leveraging RabbitMQ, Redis, and process monitoring in an environment where Python bridges the worlds of game data and AI analysis.
+
+#### Lumír Balhar - Random, but not really
+
+How computers generate numbers for different purposes
+Ever wondered how your computer decides what’s “random”? Let’s peek behind the curtain — and see why getting it wrong can be disastrous.
 
 ## Past Meetups
 
