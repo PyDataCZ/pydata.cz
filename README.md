@@ -33,6 +33,10 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
+No upcoming meetups scheduled yet.
+
+## Past Meetups
+
 ### [PyData Prague #31 - PyData Prague meets TechMeetup Ostrava](https://www.meetup.com/pydata-prague/events/311404470/) (15.10.2025 at Impact Hub Ostrava)
 
 #### Darius Kryszczuk - Kill GIL: How Python 3.14 Changes Concurrent Programming
@@ -52,9 +56,7 @@ This talk will cover how we transitioned from Go and C++ parsers connected via P
 #### Lumír Balhar - Random, but not really
 
 How computers generate numbers for different purposes
-Ever wondered how your computer decides what’s “random”? Let’s peek behind the curtain — and see why getting it wrong can be disastrous.
-
-## Past Meetups
+Ever wondered how your computer decides what's "random"? Let's peek behind the curtain — and see why getting it wrong can be disastrous.
 
 ### [PyData Prague #30 - Pro: To Type Asynchronously](https://www.meetup.com/pydata-prague/events/310988736) (24.9.2025 at Qminers)
 
