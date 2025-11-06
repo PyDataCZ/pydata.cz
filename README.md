@@ -64,7 +64,7 @@ Ever wondered how your computer decides what's "random"? Let's peek behind the c
 
 We’ve streamlined the classic loop — generate data, train a model, report results — into a single, user-friendly toolkit that handles the unglamorous parts of experiments: parallelism, caching, storage, and report generation. We’ll focus on the analyst experience and how small UX choices compound into faster iteration.
 
-#### Jakub Urban -  Async to Distributed: Concurrency Patterns for Data Processing
+#### Jakub Urban -  Async to Distributed: Concurrency Patterns for Data Processing ([video](https://youtu.be/m7-Ha6glP-c))
 
 How to make your Python data workflows scale and run faster? We will explore built‑in concurrent.futures and asyncio patterns, and then show if and how to scale using frameworks like Dask or Ray. We will focus on practical recipes for CPU (or GPU) and memory demanding tasks, typical for data processing.
 
