@@ -78,7 +78,7 @@ No talks.
 
 Once we constrain ourselves to a rectangle of fixed-width characters (preferably white on a black background), we start to see the world a bit differently. If we want to thoroughly investigate it (a.k.a. perform data analysis), we have to be equipped with appropriate tools - be it techniques, libraries or standalone console-based applications. Let's see what the terminal has to offer when reading, manipulating, presenting and even plotting numerical data. We might even finish with a live dashboard your audience will love (or perhaps will not).
 
-#### Jakub Zikl - Right-Sized Scaling: Python APIs at Billions of Requests Without the Complexity
+#### Jakub Zikl - Right-Sized Scaling: Python APIs at Billions of Requests Without the Complexity ([video](https://youtu.be/slC4nThmIZQ))
 
 At [Printables.com](https://www.printables.com/), we handle billions of requests every month using a fairly simple, Python-based API stack that scales reliably without unnecessary complexity. In this talk, I’ll share how embracing pragmatism over hype helped us avoid overengineering—proving that microservices and complex architectures aren’t always the answer for every challenge. We’ll explore key design choices, real-world bottlenecks, and practical lessons from our journey to build a maintainable, cost-effective system that delivers at scale. Whether you’re growing a startup or managing a mature platform, you’ll gain actionable insights for scaling Python APIs with confidence.
 
