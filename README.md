@@ -37,6 +37,18 @@ No upcoming meetups scheduled yet.
 
 ## Past Meetups
 
+### [PyData Prague #32 - Scrapeyard Forge](https://www.meetup.com/pydata-prague/events/311840596) (26.11.2025 at Apify)
+
+#### Vladimír Dušek - Dealing with today's web scraping challenges in Python
+
+Web data powers today's AI revolution, but accessing it is becoming increasingly complex as websites grow more sophisticated. Modern web scraping and automation face challenges such as IP and geographical blocking, JavaScript-based content rendering, device and browser fingerprinting, CAPTCHAs, anti-scraping HTTP headers, and more.
+
+In this talk, you'll learn how to beat these challenges using Crawlee—a modern open-source Python library for web scraping and automation that we built from scratch at Apify.
+
+#### Jan Kislinger - Forged in Rust, Spoken in Python ([slides](https://github.com/jankislinger/forged-in-rust))
+
+Python has long been the go-to language for data science and rapid experimentation, but when our models and algorithms start to hit performance limits, we naturally look toward something closer to the metal. In recent years, Rust has become a powerful partner: a language that offers high speed, strong safety guarantees, and a surprisingly pleasant developer experience. With tools like pyo3 and maturin, we can implement performance-critical components in Rust while keeping the flexible, expressive Python interface we love. This talk explores how the evolving Python–Rust ecosystem is gently reshaping the balance between productivity and performance. What new capabilities do we unlock by going lower level, and what, if anything, do we leave behind?
+
 ### [PyData Prague #31 - PyData Prague meets TechMeetup Ostrava](https://www.meetup.com/pydata-prague/events/311404470/) (15.10.2025 at Impact Hub Ostrava)
 
 #### Darius Kryszczuk - Kill GIL: How Python 3.14 Changes Concurrent Programming
