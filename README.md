@@ -100,7 +100,7 @@ At [Printables.com](https://www.printables.com/), we handle billions of requests
 
 In this talk, we'll look at the problem of anonymizing data and pick apart several common mistakes people make when attempting to remove or modify sensitive data in order to anonymize it. We'll review basic approaches like pseudonymization and redaction, and then look at more advanced approaches like k-anonymization/aggregation and differential privacy. Expect to think a bit like a hacker and a data scientist to see if you can imagine ways to defeat these approaches, and explore how intertwined information theory is to privacy work.
 
-#### Štěpán Procházka - LLMs, the do-it-yourself edition
+#### Štěpán Procházka - LLMs, the do-it-yourself edition ([video](https://youtu.be/kqTVY1CwgS8))
 
 How Rossum researched, trained and deployed their very own T-LLM to process millions of documents a month. #huggingface #pytorch-lightning #nvidia-triton #pgvector #vllm
 
