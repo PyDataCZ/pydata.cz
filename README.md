@@ -33,9 +33,40 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-No upcoming meetups scheduled yet.
+### [PyData Prague #34 - Learning from Distillation](https://www.meetup.com/pydata-prague/events/311840596) (10.3.2025 at Similarweb)
+
+#### Alena Pavlova - Why Your Models Fail: Learning from Regime Shifts in Real Data
+
+When building predictive models, we often assume that the data-generating process is stable over time. In practice, this assumption is frequently violated and ignoring it can severely degrade model performance.
+
+In this talk, we use stock market price data to demonstrate how overlooking market regimes leads to misleading results and fragile trading strategies. We start by implementing a simple strategy under the assumption of a single, stationary regime and show how it fails in changing market conditions.
+
+We then introduce a regime-aware approach to infer latent market states. By applying the same strategy only within appropriate regimes, we demonstrate how performance, risk characteristics, and interpretability can change dramatically.
+
+The talk focuses on practical Python implementation, intuitive explanations of regime modeling, and concrete lessons that extend beyond finance to any non-stationary time-series problem. Attendees will learn how to detect regime shifts, incorporate them into modeling workflows, and avoid common pitfalls when working with evolving data.
+
+#### Gabriela Kadlecová - Training Small Language Models with Knowledge Distillation
+
+Large language models (LLMs) have proven useful across a wide range of real-world applications, from code generation and document analysis to intelligent automation and data extraction. However, their practical adoption comes with some tradeoffs: inference costs can be prohibitive at scale, and sending sensitive data to external cloud APIs raises privacy concerns. Sometimes, a general-purpose model is more than what's needed - if the task is quite specific, a smaller, specialized model could do the job just as well.
+
+Small Language Models (SLMs) are a great alternative - running entirely on local hardware, they keep data private, respond faster, and operate at a fraction of the cost. The key challenge is making them good enough for the task at hand, and this is where knowledge distillation comes in. By having a large "teacher" model automatically generate and refine training examples, we can create a specialized "student" model tailored to a specific task, starting from as few as a handful of seed examples.
+
+In this talk, we walk through the full distillation pipeline: from defining a task and preparing seed data, through synthetic data generation, to fine-tuning an SLM ready for local deployment. We also present benchmark results comparing base and fine-tuned models, and a live demo showing how capable a well-distilled small model can be.
 
 ## Past Meetups
+
+### [PyData Prague #33 - The Root of All Eval](https://www.meetup.com/pydata-prague/events/313094364) (11.2.2025 at Pure Storage)
+
+#### Šimon Podhajský - Evals, Benchmarks, and Guardrails: A Pythonista's Guide to Not Mixing Them Up
+
+"I'll just write pytest tests for my LLM"—but should you? This talk untangles benchmarks, evals, and guardrails: three concepts that sound similar but map to different Python patterns. Learn why pytest CAN work for evals (with the right mindset), why guardrails aren't tests at all, and a grounded theory approach to defining what "good" actually means for your task.
+
+#### Ondřej Hlaváč - Orchestration Beyond the Schedule: Real-Time Integrations with Prefect
+
+As Python data workflows grow in complexity, relying on simple scripts and cron jobs often leads to "silent failures" and a lack of visibility. Enter Prefect—a modern orchestration framework that empowers developers to build, observe, and manage robust pipelines using standard Python code. While Prefect is rapidly gaining traction for scheduled batch processing, we took a different path: using it to power real-time event integrations for Master Data Management.
+
+In this talk, I will introduce what makes Prefect unique compared to legacy tools and demonstrate how we adapted it to handle immediate, event-driven flows. We will explore how its built-in resilience
+capabilities—like automatic retries, state management, and detailed observability—can be repurposed to make real-time integrations as reliable as nightly ETL jobs
 
 ### [PyData Prague #32 - Scrapeyard Forge](https://www.meetup.com/pydata-prague/events/311840596) (26.11.2025 at Apify)
 
