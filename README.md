@@ -33,7 +33,11 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-### [PyData Prague #34 - Learning from Distillation](https://www.meetup.com/pydata-prague/events/311840596) (10.3.2025 at Similarweb)
+No upcoming meetups (yet). 
+
+## Past Meetups
+
+### [PyData Prague #34 - Learning from Distillation](https://www.meetup.com/pydata-prague/events/311840596) (10.3.2026 at Similarweb)
 
 #### Alena Pavlova - Why Your Models Fail: Learning from Regime Shifts in Real Data
 
@@ -53,9 +57,7 @@ Small Language Models (SLMs) are a great alternative - running entirely on local
 
 In this talk, we walk through the full distillation pipeline: from defining a task and preparing seed data, through synthetic data generation, to fine-tuning an SLM ready for local deployment. We also present benchmark results comparing base and fine-tuned models, and a live demo showing how capable a well-distilled small model can be.
 
-## Past Meetups
-
-### [PyData Prague #33 - The Root of All Eval](https://www.meetup.com/pydata-prague/events/313094364) (11.2.2025 at Pure Storage)
+### [PyData Prague #33 - The Root of All Eval](https://www.meetup.com/pydata-prague/events/313094364) (11.2.2026 at Pure Storage)
 
 #### Šimon Podhajský - Evals, Benchmarks, and Guardrails: A Pythonista's Guide to Not Mixing Them Up
 
