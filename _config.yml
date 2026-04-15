@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: PyData Prague
+description: A community of data scientists, engineers, and analysts in the Czech Republic
+
+kramdown:
+  parse_block_html: true

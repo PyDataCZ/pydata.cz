@@ -1,0 +1,19 @@
+---
+---
+
+$header-bg-color: #F7B733;
+$header-bg-color-secondary: #E69500;
+$section-headings-color: #0099CD;
+$link-color: #0099CD;
+$blockquote-text-color: #17394B;
+
+@import "{{ site.theme }}";
+
+.page-header {
+  padding: 2rem 1rem;
+}
+
+.btn {
+  display: none;
+}
+
