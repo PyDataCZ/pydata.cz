@@ -33,7 +33,21 @@ We have hosted several meetups, you can check them out on our [Meetup page](http
 
 ## Upcoming Meetups
 
-No upcoming meetups (yet). 
+### [PyData Prague #35 - Probably unreliable vulnerabilities](https://www.meetup.com/pydata-prague/events/314798116) (26.5.2026 at Aisle)
+
+#### Stanislav Fort - What a Single-File LLM Security Analyzer Taught Us?
+
+High-quality AI security research can uncover real vulnerabilities in critical infrastructure. AISLE is one example of this higher-signal approach, with validated findings in projects like OpenSSL and curl. At the same time, low-quality AI-generated reports are flooding open-source maintainers with false positives.
+
+How hard is it to find a security bug? We will explore that question through nano-analyzer, a deliberately simple open-source security scanner. For many vulnerability classes, the surprising core is not a complex platform, but a well-aimed LLM call wrapped in the right workflow.
+
+This simplicity has limits. The approach may miss obvious issues, hallucinate risky findings, or produce inconsistent results across runs. That is why validation, triage, benchmarking, and human judgment matter, and why the real challenge is building reliable processes around unreliable primitives.
+
+#### Marcela Brichtová Piptová - Getting reliable text when PDFs lie and OCR fails
+
+LLMs need text as an input. So before a model can reason about a document, we have to read the text, a step often treated as the "easy part" or a solved problem. But is it?
+
+In this talk, we will explore the hidden complexities of text extraction. This is especially critical for models like Rossum's T-LLM, an encoder-only architecture which heavily relies on high-quality input. You will learn why transactional documents are sometimes surprisingly hard for OCR, why you can't always just copy-paste text from a PDF, and why text extraction is still a topic for Rossum researchers (and our customer support team).
 
 ## Past Meetups
 
