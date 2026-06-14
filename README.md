@@ -31,7 +31,7 @@ You can find more information at [pydata.org/code-of-conduct/](https://pydata.or
 
 We have hosted several meetups, you can check them out on our [Meetup page](https://www.meetup.com/PyData-Prague). We try and host speakers from various backgrounds, so that our attendees get to find out about all sorts of things possible with the NumFOCUS toolkit (and beyond!).
 
-## Upcoming Meetups
+## Past Meetups
 
 ### [PyData Prague #35 - Probably unreliable vulnerabilities](https://www.meetup.com/pydata-prague/events/314798116) (26.5.2026 at Aisle)
 
@@ -49,8 +49,6 @@ LLMs need text as an input. So before a model can reason about a document, we ha
 
 In this talk, we will explore the hidden complexities of text extraction. This is especially critical for models like Rossum's T-LLM, an encoder-only architecture which heavily relies on high-quality input. You will learn why transactional documents are sometimes surprisingly hard for OCR, why you can't always just copy-paste text from a PDF, and why text extraction is still a topic for Rossum researchers (and our customer support team).
 
-## Past Meetups
-
 ### [PyData Prague #34 - Learning from Distillation](https://www.meetup.com/pydata-prague/events/311840596) (10.3.2026 at Similarweb)
 
 #### Alena Pavlova - Why Your Models Fail: Learning from Regime Shifts in Real Data
@@ -63,7 +61,7 @@ We then introduce a regime-aware approach to infer latent market states. By appl
 
 The talk focuses on practical Python implementation, intuitive explanations of regime modeling, and concrete lessons that extend beyond finance to any non-stationary time-series problem. Attendees will learn how to detect regime shifts, incorporate them into modeling workflows, and avoid common pitfalls when working with evolving data.
 
-#### Gabriela Kadlecová - Training Small Language Models with Knowledge Distillation
+#### Gabriela Kadlecová - Training Small Language Models with Knowledge Distillation ([video](https://youtu.be/pEXoiFbgE2U))
 
 Large language models (LLMs) have proven useful across a wide range of real-world applications, from code generation and document analysis to intelligent automation and data extraction. However, their practical adoption comes with some tradeoffs: inference costs can be prohibitive at scale, and sending sensitive data to external cloud APIs raises privacy concerns. Sometimes, a general-purpose model is more than what's needed - if the task is quite specific, a smaller, specialized model could do the job just as well.
 
