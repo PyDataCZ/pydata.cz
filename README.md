@@ -43,7 +43,7 @@ How hard is it to find a security bug? We will explore that question through nan
 
 This simplicity has limits. The approach may miss obvious issues, hallucinate risky findings, or produce inconsistent results across runs. That is why validation, triage, benchmarking, and human judgment matter, and why the real challenge is building reliable processes around unreliable primitives.
 
-#### Marcela Brichtová Piptová - Getting reliable text when PDFs lie and OCR fails
+#### Marcela Brichtová Piptová - Getting reliable text when PDFs lie and OCR fails ([video](https://youtu.be/GmF2607-Y20))
 
 LLMs need text as an input. So before a model can reason about a document, we have to read the text, a step often treated as the "easy part" or a solved problem. But is it?
 
