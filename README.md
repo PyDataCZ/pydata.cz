@@ -31,7 +31,23 @@ You can find more information at [pydata.org/code-of-conduct/](https://pydata.or
 
 We have hosted several meetups, you can check them out on our [Meetup page](https://www.meetup.com/PyData-Prague). We try and host speakers from various backgrounds, so that our attendees get to find out about all sorts of things possible with the NumFOCUS toolkit (and beyond!).
 
+## Incoming Meetups
+
+### [PyData Prague #37 - Trust the Age of Juniors](https://www.meetup.com/pydata-prague/events/317314096/) (26.11.2026 at Apple)
+
+#### Miroslav Brabenec - PyLadies and Teaching Programming in the Age of AI
+
+Since 2014, PyLadies has been helping women break into tech and teaching them Python. Over the years, the course has been through a forced move online and a search for a new format. But the biggest challenge is only arriving now: how do you teach beginners well at a time when generative AI is changing the very nature of software development?
+
+#### Atahan Aksoy - Shipping Code You Can Trust: A Practical Guide for Coding with AI
+
+AI can write code fast. The hard part is shipping code that fits your architecture, stays clean, and doesn’t quietly erode quality over time. This talk walks through a practical, day-to-day workflow for building with Claude, and explores the ideas behind it: end-to-end workflows, automation, and AI reviewing its own work, so problems are caught before they ship.
+
 ## Past Meetups
+
+### [PyData 36 °C && Pyvo 182 °F](https://www.meetup.com/pydata-prague/events/315973451) (10.8.2026 at Šachta)
+
+No talks.
 
 ### [PyData Prague #35 - Probably unreliable vulnerabilities](https://www.meetup.com/pydata-prague/events/314798116) (26.5.2026 at Aisle)
 
